@@ -1,0 +1,3171 @@
+Native membership and English labels validated offline (2301 playable + 811 native Gaia-list rows = 3112); final Windows locale collation/order remains pending.
+Native qsort comparator 004D4960: CompareStringA(LOCALE_USER_DEFAULT=0x400,NORM_IGNORECASE=1). Lists below remain DAT ID order until runtime local collation.
+
+## Galactic Empire / Units (106)
+13: Utility Trawler
+44: (E) Sith Knight
+83: Worker
+115: (E) Sith Master
+180: (E) Sith Apprentice
+307: (E) Trooper Recruit
+329: (E) Adv Mnted Trooper
+359: (E) Mounted Trooper
+381: (E) Grenade Trooper
+391: (E) Hvy Mnted Trooper
+401: (E) Hvy A-Air Trooper
+412: (E) Hvy Trooper
+426: (E) Repeater Trooper
+434: Imperial Commander
+438: (E) Anti-Air Trooper
+448: (E) Trooper
+469: (E) Strike Mech
+485: (E) Mech Destroyer
+500: (E) Assault Mech
+522: Jabba's Sail Barge
+542: Anakin's Podracer
+543: Desert Skiff
+546: Interstellar Sail Ship
+547: Lambda Shuttle
+548: Landspeeder
+550: (E) Scout
+551: Sebulba's Podracer
+555: Skyhopper
+560: (E) Hvy Strike Mech
+574: (E) Hvy Mech Destroyer
+594: Nerf
+603: (E) Hvy Assault Mech
+625: (E) Air Cruiser
+631: (E) Hvy Artillery
+651: (E) Hvy Anti-Air Mobile
+680: B'omarr Monk
+681: (E) Hvy Pummel
+691: (E) Artillery
+696: Lava Bubble (Destructive)
+702: (E) Anti-Air Mobile
+703: Gamorrean Guard
+713: (E) Pummel
+724: Jawa (Ranged)
+733: (E) Adv Bomber
+752: (E) Adv Fighter
+762: (E) Bomber
+773: (E) Fighter
+783: (E) Enh Bomber
+793: (E) Fast Fighter
+803: (E) Adv Cruiser
+815: (E) Cruiser
+833: Bantha
+838: (E) Transport Ship
+852: (E) Imperial Royal Guard
+857: Aqualish
+859: Barada
+861: Klaatu
+863: Nikto
+865: Quarren
+867: Rodian
+868: (E) Lt Frigate
+871: Weequay Skiff Guard
+875: Tusken Child
+878: (E) Frigate
+879: Tusken Raider (Female)
+883: Tusken Bantha Trooper
+887: Tusken Raider Rifleman
+888: (E) Adv Frigate
+891: Twi'Lek Female
+895: Twi'lek Male
+898: (E) Destroyer
+899: Zian Finnis
+908: (E) Hvy Destroyer
+918: (E) Anti-Air Destroyer
+928: (E) Hvy Anti-Air Destroyer
+931: Cargo Hovercraft
+937: (E) TIE Advanced X1
+938: Sandcrawler
+939: (E) Medic
+949: (E) Trandoshan Jailer
+951: (E) Undeployed Cannon
+961: (E) Bounty Hunter
+971: (E) Dark Trooper Phase 2
+983: (E) Cannon
+993: (E) Dark Trooper Phase 1
+1009: (E) Power Droid
+1034: (E) Probot
+1036: (E) Air Transport
+1103: (E) Zalor Militiaman
+1198: Bursa
+1199: Bursa Leader
+1202: Undefeatable Object
+1239: Explosive Droid
+1257: (E) Trandoshan Slaver
+1268: (E) Blizzard 2
+1269: (E) Blizzard 3
+1270: (E) Blizzard 4
+1271: (E) Blizzard 5
+1272: (E) Blizzard 6
+1276: (E) Prototype AT-AT
+1324: (E) Slaver Ship
+1328: Sacred Staff
+1425: Droid Control Program
+1430: Fambaa
+1581: Luke's Landspeeder
+1584: Tusken Raider (Melee)
+
+## Galactic Empire / Buildings (163)
+7: Asteroid Supply Depot
+12: Power Core
+19: Transmitter
+45: Shipyard
+49: Hvy Weapons Factory
+50: Farm
+64: Gate
+68: Food Proc Ctr
+70: Prefab Shelter
+72: Light Wall
+79: Light Turret
+82: Fortress
+84: Spaceport
+87: Troop Center
+88: Gate
+101: Mech Factory
+103: War Center
+104: Sith Temple
+109: Command Center
+117: Medium Wall
+155: Hvy Wall
+195: Shield Wall
+196: Adv Anti-Air Turret
+199: AquaHarvester
+209: Research Center
+234: Medium Turret
+235: Advanced Turret
+236: Anti-Air Turret
+275: B'omarr Temple
+276: Monument
+284: Boorka's Palace
+299: Freighter 1 (Landed)
+300: Freighter 2 (Landed)
+311: Tatooine Crashed Starship
+312: Commerce Guild Trpt (Landed)
+313: Coruscant Building 1
+314: Coruscant Building 2
+317: Airbase
+319: Animal Nursery
+323: Nova Crystal Proc Ctr
+327: Coruscant Building 3
+328: Coruscant Building 4
+333: Coruscant Building 5
+334: Coruscant Building 6
+335: Shield Generator
+338: Coruscant Building 7
+339: Coruscant Building 8
+340: Coruscant Building 9
+341: Mt. Corvast Citadel
+342: Decimator Facility
+467: Decimator Laboratory
+474: Decimator (Locked-Down)
+476: Decimator Production Yard
+480: Interstellar Sail Ship (Landed)
+482: Energy Collection Repository
+483: Drill Platform Collector
+494: Escape Pod
+518: Jabba's Palace
+519: Jawa Camp
+523: Large Energy Collection Repository
+524: Tatooine Moisture Farm
+525: Tatooine Docking Bay
+526: Tatooine Market
+527: Tatooine Hovel 1
+528: Tatooine Hovel 2
+529: Tatooine Slave Quarters
+530: Tatooine Spaceport
+531: Power Relay
+532: Rocketship (Landed)
+533: Republic Troop Lander (Landed)
+534: Slave I (Landed)
+535: Tann's Transport (Landed)
+536: Tusken Tents 1
+537: Tusken Tents 2
+562: Carbon Proc Ctr
+584: Ore Proc Ctr
+598: Sentry Post
+659: Gate
+667: Gate
+678: Droid Storage Facility
+826: Command Base
+950: Colony Ship
+1021: Bridge A Start
+1022: Bridge A Mid
+1023: Bridge A End
+1024: Bridge A End (Broken)
+1025: Bridge B End
+1026: Bridge B Start
+1027: Bridge B Mid
+1028: Bridge A Mid (Broken)
+1029: Bridge A Start (Broken)
+1030: Bridge B Start (Broken)
+1031: Bridge B End (Broken)
+1032: Bridge B Mid (Broken)
+1049: Sith Infiltrator
+1050: Landed Rebel Transport
+1052: Massassi Temple
+1053: Lander
+1054: Lambda Class Shuttle
+1055: Theed House
+1056: Theed House
+1057: Theed Gazebo
+1059: Theed Temple
+1060: Theed Hangar
+1061: Naboo Tower
+1062: Theed Power Station
+1063: Theed Palace
+1064: Theed Turret
+1184: Tatooine House A
+1185: Tatooine House B
+1186: Tatooine Bldg A
+1187: Tatooine Tower A
+1188: Tatooine Vaporator
+1189: Bridge A Mid Destructable
+1190: Theed Monument
+1194: Echo Base Power Generator
+1195: Echo Base Ion Cannon
+1207: Bursa Hut
+1213: Theed House
+1214: Theed House
+1216: Bespin Bldg 1
+1217: Bespin Bldg 4
+1218: Bespin Government Center
+1219: Bespin Bldg 5
+1220: Bespin Bldg 10
+1221: Bespin Bldg 6
+1222: Bespin Bldg 7
+1223: Bespin Bldg 8
+1224: Bespin Bldg 9
+1225: Bespin Bldg 2
+1226: Bespin Bldg 3
+1248: Bridge B Mid Destructable
+1284: AquaProduction Plant
+1291: Invisible Target
+1294: Main Reactor
+1295: Massassi Great Temple
+1298: Trandoshan Building
+1299: Endor Shield Generator
+1300: Food Storehouse
+1301: Bunker
+1302: Atmosphere Factory
+1303: Landing Platform
+1304: Jamming Device
+1306: Kessel Prison Building
+1307: Kessel Mining Building
+1308: Large Jedi Ruins
+1311: Ewok Hut
+1312: Gungan Temple
+1313: Ewok Military Structure
+1336: Main Terraform Processor
+1337: Imperial Palace
+1338: Communications Jammer
+1340: Atmosphere Proc Station
+1342: Small Jedi Ruins
+1374: Yoda's Hovel
+1428: Theed Arch
+1432: Theed Arch
+1433: Theed Arch
+1434: Theed Arch
+1454: Trandoshan Building
+1458: Gravity Control Generator
+1576: Sensor Buoy
+1589: Coruscant Building 10
+
+## Galactic Empire / Heroes (29)
+32: (E) TIE Advanced X1 (Vader)
+545: Decimator
+549: Outrider
+557: Slave I (Boba Fett)
+559: Slave I (Jango Fett)
+569: Virago
+658: Bib Fortuna
+686: (E) General Tal Ashen
+694: Chief Jawa
+699: Data Droid
+718: Boorka The Hutt
+720: Jabba The Hutt
+722: IG-88
+830: (E) AT-AT (Ashen)
+1083: (E) Darth Vader
+1085: (E) Emperor Palpatine
+1091: (E) Governor Antes Belladar
+1092: (E) Minister Transe Decar
+1101: (E) Colonel Veers
+1109: (E) Moff Yittreas
+1113: (E) Pekt
+1116: (E) Mara Jade
+1209: (E) Blizzard 1 (Veers)
+1229: Millenium Falcon
+1317: (E) Boba Fett
+1319: (E) Moff Darcc
+1391: (E) Bossk
+1401: (E) Greedo
+1588: Tann's Transport
+
+## Gungans / Units (95)
+2: (G) Fambaa Shield Generator
+13: Utility Trawler
+61: (G) Jedi Knight
+83: Worker
+125: (G) Jedi Master
+183: (G) Jedi Padawan
+238: (G) Trooper Recruit
+331: (G) Adv Mnted Trooper
+361: (G) Mounted Trooper
+383: (G) Grenade Trooper
+393: (G) Hvy Mnted Trooper
+403: (G) Hvy A-Air Trooper
+418: (G) Hvy Trooper
+428: (G) Repeater Trooper
+434: Gungan Commander
+440: (G) Anti-Air Trooper
+452: (G) Trooper
+471: (G) Strike Mech
+489: (G) Mech Destroyer
+502: (G) Assault Mech
+522: Jabba's Sail Barge
+542: Anakin's Podracer
+543: Desert Skiff
+546: Interstellar Sail Ship
+547: Lambda Shuttle
+548: Landspeeder
+551: Sebulba's Podracer
+552: (G) Scout
+555: Skyhopper
+566: (G) Hvy Strike Mech
+576: (G) Hvy Mech Destroyer
+594: Nerf
+622: (G) Hvy Assault Mech
+630: (G) Air Cruiser
+633: (G) Hvy Artillery
+653: (G) Hvy Anti-Air Mobile
+680: B'omarr Monk
+683: (G) Hvy Pummel
+693: (G) Artillery
+696: Lava Bubble (Destructive)
+703: Gamorrean Guard
+704: (G) Anti-Air Mobile
+715: (G) Pummel
+724: Jawa (Ranged)
+735: (G) Adv Bomber
+754: (G) Adv Fighter
+764: (G) Bomber
+775: (G) Fighter
+785: (G) Enh Bomber
+795: (G) Fast Fighter
+805: (G) Adv Cruiser
+818: (G) Cruiser
+829: (G) Hvy Anti-Air Destroyer
+833: Bantha
+839: (G) Transport Ship
+857: Aqualish
+859: Barada
+861: Klaatu
+863: Nikto
+865: Quarren
+867: Rodian
+871: Weequay Skiff Guard
+875: Tusken Child
+876: (G) Lt Frigate
+879: Tusken Raider (Female)
+883: Tusken Bantha Trooper
+886: (G) Frigate
+887: Tusken Raider Rifleman
+891: Twi'Lek Female
+895: Twi'lek Male
+896: (G) Adv Frigate
+899: Zian Finnis
+904: (G) Destroyer
+914: (G) Hvy Destroyer
+922: (G) Anti-Air Destroyer
+931: Cargo Hovercraft
+938: Sandcrawler
+941: (G) Medic
+952: (G) Undeployed Cannon
+963: (G) Bounty Hunter
+975: (G) Hvy Fambaa Shield Gen
+984: (G) Cannon
+1011: (G) Power Droid
+1040: (G) Air Transport
+1198: Bursa
+1199: Bursa Leader
+1202: Undefeatable Object
+1236: (G) Gundark
+1239: Explosive Droid
+1266: (G) Wild Gungan Flyer
+1328: Sacred Staff
+1425: Droid Control Program
+1430: Fambaa
+1581: Luke's Landspeeder
+1584: Tusken Raider (Melee)
+
+## Gungans / Buildings (166)
+7: Asteroid Supply Depot
+12: Power Core
+19: Transmitter
+45: Shipyard
+49: Hvy Weapons Factory
+50: Farm
+64: Gate
+68: Food Proc Ctr
+70: Prefab Shelter
+72: Light Wall
+79: Light Turret
+82: Fortress
+84: Spaceport
+87: Troop Center
+88: Gate
+101: Mech Factory
+103: War Center
+104: Jedi Temple
+109: Command Center
+117: Medium Wall
+155: Hvy Wall
+195: Shield Wall
+196: Adv Anti-Air Turret
+199: AquaHarvester
+209: Research Center
+234: Medium Turret
+235: Advanced Turret
+236: Anti-Air Turret
+275: B'omarr Temple
+276: Monument
+284: Boorka's Palace
+299: Freighter 1 (Landed)
+300: Freighter 2 (Landed)
+311: Tatooine Crashed Starship
+312: Commerce Guild Trpt (Landed)
+313: Coruscant Building 1
+314: Coruscant Building 2
+317: Airbase
+319: Animal Nursery
+323: Nova Crystal Proc Ctr
+327: Coruscant Building 3
+328: Coruscant Building 4
+333: Coruscant Building 5
+334: Coruscant Building 6
+335: Shield Generator
+338: Coruscant Building 7
+339: Coruscant Building 8
+340: Coruscant Building 9
+341: Mt. Corvast Citadel
+342: Decimator Facility
+467: Decimator Laboratory
+474: Decimator (Locked-Down)
+476: Decimator Production Yard
+480: Interstellar Sail Ship (Landed)
+482: Energy Collection Repository
+483: Drill Platform Collector
+494: Escape Pod
+518: Jabba's Palace
+519: Jawa Camp
+523: Large Energy Collection Repository
+524: Tatooine Moisture Farm
+525: Tatooine Docking Bay
+526: Tatooine Market
+527: Tatooine Hovel 1
+528: Tatooine Hovel 2
+529: Tatooine Slave Quarters
+530: Tatooine Spaceport
+531: Power Relay
+532: Rocketship (Landed)
+533: Republic Troop Lander (Landed)
+534: Slave I (Landed)
+535: Tann's Transport (Landed)
+536: Tusken Tents 1
+537: Tusken Tents 2
+562: Carbon Proc Ctr
+584: Ore Proc Ctr
+598: Sentry Post
+659: Gate
+667: Gate
+678: Droid Storage Facility
+826: Command Base
+950: Colony Ship
+1001: (G) Underwater Prefab Shelter
+1021: Bridge A Start
+1022: Bridge A Mid
+1023: Bridge A End
+1024: Bridge A End (Broken)
+1025: Bridge B End
+1026: Bridge B Start
+1027: Bridge B Mid
+1028: Bridge A Mid (Broken)
+1029: Bridge A Start (Broken)
+1030: Bridge B Start (Broken)
+1031: Bridge B End (Broken)
+1032: Bridge B Mid (Broken)
+1049: Sith Infiltrator
+1050: Landed Rebel Transport
+1052: Massassi Temple
+1053: Lander
+1054: Lambda Class Shuttle
+1055: Theed House
+1056: Theed House
+1057: Theed Gazebo
+1059: Theed Temple
+1060: Theed Hangar
+1061: Naboo Tower
+1062: Theed Power Station
+1063: Theed Palace
+1064: Theed Turret
+1184: Tatooine House A
+1185: Tatooine House B
+1186: Tatooine Bldg A
+1187: Tatooine Tower A
+1188: Tatooine Vaporator
+1189: Bridge A Mid Destructable
+1190: Theed Monument
+1194: Echo Base Power Generator
+1195: Echo Base Ion Cannon
+1207: Bursa Hut
+1213: Theed House
+1214: Theed House
+1216: Bespin Bldg 1
+1217: Bespin Bldg 4
+1218: Bespin Government Center
+1219: Bespin Bldg 5
+1220: Bespin Bldg 10
+1221: Bespin Bldg 6
+1222: Bespin Bldg 7
+1223: Bespin Bldg 8
+1224: Bespin Bldg 9
+1225: Bespin Bldg 2
+1226: Bespin Bldg 3
+1248: Bridge B Mid Destructable
+1284: AquaProduction Plant
+1291: Invisible Target
+1292: (G) Otoh Gunga High Tower
+1293: (G) Rogoe's Keep
+1294: Main Reactor
+1295: Massassi Great Temple
+1298: Trandoshan Building
+1299: Endor Shield Generator
+1300: Food Storehouse
+1301: Bunker
+1302: Atmosphere Factory
+1303: Landing Platform
+1304: Jamming Device
+1306: Kessel Prison Building
+1307: Kessel Mining Building
+1308: Large Jedi Ruins
+1311: Ewok Hut
+1312: Gungan Temple
+1313: Ewok Military Structure
+1336: Main Terraform Processor
+1337: Imperial Palace
+1338: Communications Jammer
+1340: Atmosphere Proc Station
+1342: Small Jedi Ruins
+1374: Yoda's Hovel
+1428: Theed Arch
+1432: Theed Arch
+1433: Theed Arch
+1434: Theed Arch
+1454: Trandoshan Building
+1458: Gravity Control Generator
+1576: Sensor Buoy
+1589: Coruscant Building 10
+
+## Gungans / Heroes (24)
+545: Decimator
+549: Outrider
+557: Slave I (Boba Fett)
+559: Slave I (Jango Fett)
+569: Virago
+658: Bib Fortuna
+694: Chief Jawa
+699: Data Droid
+718: Boorka The Hutt
+720: Jabba The Hutt
+722: IG-88
+1086: (G) Jar Jar Binks
+1106: (G) Boss Nass
+1107: (G) Boss Ganne
+1108: (G) Boss Gallo
+1114: (G) Captain Marsune
+1115: (G) Captain Tarpals
+1229: Millenium Falcon
+1261: (G) Vilmarh Grahrk
+1320: (G) Boss Tenko
+1321: (G) Boss Hoxie
+1322: (G) Boss Copek
+1323: (G) Boss Hantic
+1588: Tann's Transport
+
+## Rebel Alliance / Units (105)
+6: (R) Airspeeder
+13: Utility Trawler
+74: (R) Jedi Knight
+83: Worker
+136: (R) Jedi Master
+232: (R) Jedi Padawan
+282: (R) Trooper Recruit
+346: (R) Adv Mnted Trooper
+376: (R) Mounted Trooper
+387: (R) Grenade Trooper
+397: (R) Hvy Mnted Trooper
+407: (R) Hvy A-Air Trooper
+422: (R) Hvy Trooper
+432: (R) Repeater Trooper
+434: Rebel Commander
+444: (R) Anti-Air Trooper
+460: (R) Trooper
+475: (R) Strike Mech
+495: (R) Mech Destroyer
+514: (R) Assault Mech
+522: Jabba's Sail Barge
+542: Anakin's Podracer
+543: Desert Skiff
+546: Interstellar Sail Ship
+547: Lambda Shuttle
+548: Landspeeder
+551: Sebulba's Podracer
+555: Skyhopper
+556: (R) Scout
+570: (R) Hvy Strike Mech
+588: (R) Hvy Mech Destroyer
+594: Nerf
+626: (R) Hvy Assault Mech
+634: (R) Air Cruiser
+637: (R) Hvy Artillery
+675: (R) Hvy Anti-Air Mobile
+680: B'omarr Monk
+687: (R) Hvy Pummel
+696: Lava Bubble (Destructive)
+698: (R) Artillery
+703: Gamorrean Guard
+708: (R) Anti-Air Mobile
+719: (R) Pummel
+724: Jawa (Ranged)
+748: (R) Adv Bomber
+758: (R) Adv Fighter
+769: (R) Bomber
+779: (R) Fighter
+789: (R) Enh Bomber
+799: (R) Fast Fighter
+809: (R) Adv Cruiser
+823: (R) Cruiser
+831: (R) Hvy Anti-Air Destroyer
+833: Bantha
+841: (R) Transport Ship
+857: Aqualish
+859: Barada
+861: Klaatu
+863: Nikto
+865: Quarren
+867: Rodian
+871: Weequay Skiff Guard
+872: (R) Lt Frigate
+875: Tusken Child
+879: Tusken Raider (Female)
+882: (R) Frigate
+883: Tusken Bantha Trooper
+887: Tusken Raider Rifleman
+891: Twi'Lek Female
+892: (R) Adv Frigate
+895: Twi'lek Male
+899: Zian Finnis
+906: (R) Destroyer
+916: (R) Hvy Destroyer
+924: (R) Anti-Air Destroyer
+931: Cargo Hovercraft
+938: Sandcrawler
+945: (R) Medic
+954: (R) Undeployed Cannon
+967: (R) Bounty Hunter
+979: (R) Armored Airspeeder
+986: (R) Cannon
+1013: (R) Power Droid
+1046: (R) Air Transport
+1098: (R) Hanoon Soldier
+1099: (R) Krantian Soldier
+1100: (R) Reytha Soldier
+1198: Bursa
+1199: Bursa Leader
+1202: Undefeatable Object
+1239: Explosive Droid
+1253: (R) Ewok
+1256: (R) Logray
+1258: (R) Wicket
+1265: (R) General Dodonna (Wounded)
+1267: (R) Bespin Security Guard
+1273: (R) Ewok Glider
+1275: (R) Ewok Catapult
+1328: Sacred Staff
+1425: Droid Control Program
+1430: Fambaa
+1581: Luke's Landspeeder
+1582: (R) A-wing
+1583: (R) B-wing
+1584: Tusken Raider (Melee)
+
+## Rebel Alliance / Buildings (163)
+7: Asteroid Supply Depot
+12: Power Core
+19: Transmitter
+45: Shipyard
+49: Hvy Weapons Factory
+50: Farm
+64: Gate
+68: Food Proc Ctr
+70: Prefab Shelter
+72: Light Wall
+79: Light Turret
+82: Fortress
+84: Spaceport
+87: Troop Center
+88: Gate
+101: Mech Factory
+103: War Center
+104: Jedi Temple
+109: Command Center
+117: Medium Wall
+155: Hvy Wall
+195: Shield Wall
+196: Adv Anti-Air Turret
+199: AquaHarvester
+209: Research Center
+234: Medium Turret
+235: Advanced Turret
+236: Anti-Air Turret
+275: B'omarr Temple
+276: Monument
+284: Boorka's Palace
+299: Freighter 1 (Landed)
+300: Freighter 2 (Landed)
+311: Tatooine Crashed Starship
+312: Commerce Guild Trpt (Landed)
+313: Coruscant Building 1
+314: Coruscant Building 2
+317: Airbase
+319: Animal Nursery
+323: Nova Crystal Proc Ctr
+327: Coruscant Building 3
+328: Coruscant Building 4
+333: Coruscant Building 5
+334: Coruscant Building 6
+335: Shield Generator
+338: Coruscant Building 7
+339: Coruscant Building 8
+340: Coruscant Building 9
+341: Mt. Corvast Citadel
+342: Decimator Facility
+467: Decimator Laboratory
+474: Decimator (Locked-Down)
+476: Decimator Production Yard
+480: Interstellar Sail Ship (Landed)
+482: Energy Collection Repository
+483: Drill Platform Collector
+494: Escape Pod
+518: Jabba's Palace
+519: Jawa Camp
+523: Large Energy Collection Repository
+524: Tatooine Moisture Farm
+525: Tatooine Docking Bay
+526: Tatooine Market
+527: Tatooine Hovel 1
+528: Tatooine Hovel 2
+529: Tatooine Slave Quarters
+530: Tatooine Spaceport
+531: Power Relay
+532: Rocketship (Landed)
+533: Republic Troop Lander (Landed)
+534: Slave I (Landed)
+535: Tann's Transport (Landed)
+536: Tusken Tents 1
+537: Tusken Tents 2
+562: Carbon Proc Ctr
+584: Ore Proc Ctr
+598: Sentry Post
+659: Gate
+667: Gate
+678: Droid Storage Facility
+826: Command Base
+950: Colony Ship
+1021: Bridge A Start
+1022: Bridge A Mid
+1023: Bridge A End
+1024: Bridge A End (Broken)
+1025: Bridge B End
+1026: Bridge B Start
+1027: Bridge B Mid
+1028: Bridge A Mid (Broken)
+1029: Bridge A Start (Broken)
+1030: Bridge B Start (Broken)
+1031: Bridge B End (Broken)
+1032: Bridge B Mid (Broken)
+1049: Sith Infiltrator
+1050: Landed Rebel Transport
+1052: Massassi Temple
+1053: Lander
+1054: Lambda Class Shuttle
+1055: Theed House
+1056: Theed House
+1057: Theed Gazebo
+1059: Theed Temple
+1060: Theed Hangar
+1061: Naboo Tower
+1062: Theed Power Station
+1063: Theed Palace
+1064: Theed Turret
+1184: Tatooine House A
+1185: Tatooine House B
+1186: Tatooine Bldg A
+1187: Tatooine Tower A
+1188: Tatooine Vaporator
+1189: Bridge A Mid Destructable
+1190: Theed Monument
+1194: Echo Base Power Generator
+1195: Echo Base Ion Cannon
+1207: Bursa Hut
+1213: Theed House
+1214: Theed House
+1216: Bespin Bldg 1
+1217: Bespin Bldg 4
+1218: Bespin Government Center
+1219: Bespin Bldg 5
+1220: Bespin Bldg 10
+1221: Bespin Bldg 6
+1222: Bespin Bldg 7
+1223: Bespin Bldg 8
+1224: Bespin Bldg 9
+1225: Bespin Bldg 2
+1226: Bespin Bldg 3
+1248: Bridge B Mid Destructable
+1284: AquaProduction Plant
+1291: Invisible Target
+1294: Main Reactor
+1295: Massassi Great Temple
+1298: Trandoshan Building
+1299: Endor Shield Generator
+1300: Food Storehouse
+1301: Bunker
+1302: Atmosphere Factory
+1303: Landing Platform
+1304: Jamming Device
+1306: Kessel Prison Building
+1307: Kessel Mining Building
+1308: Large Jedi Ruins
+1311: Ewok Hut
+1312: Gungan Temple
+1313: Ewok Military Structure
+1336: Main Terraform Processor
+1337: Imperial Palace
+1338: Communications Jammer
+1340: Atmosphere Proc Station
+1342: Small Jedi Ruins
+1374: Yoda's Hovel
+1428: Theed Arch
+1432: Theed Arch
+1433: Theed Arch
+1434: Theed Arch
+1454: Trandoshan Building
+1458: Gravity Control Generator
+1576: Sensor Buoy
+1589: Coruscant Building 10
+
+## Rebel Alliance / Heroes (40)
+17: (R) Millenium Falcon (Han)
+545: Decimator
+549: Outrider
+557: Slave I (Boba Fett)
+559: Slave I (Jango Fett)
+569: Virago
+607: (R) C-3P0
+658: Bib Fortuna
+688: (R) Rand Talor
+694: Chief Jawa
+699: Data Droid
+701: (R) Kath Talor
+718: Boorka The Hutt
+720: Jabba The Hutt
+722: IG-88
+753: (R) Master Skywalker
+849: (R) Dash Rendar
+856: (R) Millenium Falcon (General Solo)
+999: (R) Princess Leia Organa
+1077: (R) Echuu
+1078: (R) Luke Skywalker
+1079: (R) Obi-Wan Kenobi
+1080: (R) Yoda
+1088: (R) Excellency Lathe Parthenian
+1089: (R) Krantian Governor
+1090: (R) Utric Sandov
+1097: (R) General Jan Dodonna
+1104: (R) Lando Calrissian
+1105: (R) Han Solo
+1112: (R) Snowspeeder (Wedge Antilles)
+1196: (R) Han Solo on Tauntaun
+1200: (R) A-wing
+1201: (R) Upgraded A-wing
+1229: Millenium Falcon
+1255: (R) Chief Chirpa
+1263: (R) Boussh
+1357: (R) Lobot
+1361: (R) R2-D2
+1421: (R) Snowspeeder (Luke Skywalker)
+1588: Tann's Transport
+
+## Royal Naboo / Units (94)
+4: (N) Royal Crusader
+13: Utility Trawler
+62: (N) Jedi Knight
+83: Worker
+134: (N) Jedi Master
+204: (N) Jedi Padawan
+280: (N) Trooper Recruit
+344: (N) Adv Mnted Trooper
+370: (N) Mounted Trooper
+385: (N) Grenade Trooper
+395: (N) Hvy Mnted Trooper
+405: (N) Hvy A-Air Trooper
+420: (N) Hvy Trooper
+430: (N) Repeater Trooper
+434: Naboo Commander
+442: (N) Anti-Air Trooper
+454: (N) Trooper
+473: (N) Strike Mech
+493: (N) Mech Destroyer
+508: (N) Assault Mech
+522: Jabba's Sail Barge
+542: Anakin's Podracer
+543: Desert Skiff
+546: Interstellar Sail Ship
+547: Lambda Shuttle
+548: Landspeeder
+551: Sebulba's Podracer
+554: (N) Scout
+555: Skyhopper
+568: (N) Hvy Strike Mech
+578: (N) Hvy Mech Destroyer
+594: Nerf
+624: (N) Hvy Assault Mech
+632: (N) Air Cruiser
+635: (N) Hvy Artillery
+657: (N) Hvy Anti-Air Mobile
+680: B'omarr Monk
+685: (N) Hvy Pummel
+695: (N) Artillery
+696: Lava Bubble (Destructive)
+703: Gamorrean Guard
+706: (N) Anti-Air Mobile
+717: (N) Pummel
+724: Jawa (Ranged)
+745: (N) Adv Bomber
+756: (N) Adv Fighter
+766: (N) Bomber
+777: (N) Fighter
+787: (N) Enh Bomber
+797: (N) Fast Fighter
+807: (N) Adv Cruiser
+820: (N) Cruiser
+833: Bantha
+840: (N) Transport Ship
+857: Aqualish
+859: Barada
+861: Klaatu
+863: Nikto
+865: Quarren
+867: Rodian
+870: (N) Lt Frigate
+871: Weequay Skiff Guard
+875: Tusken Child
+879: Tusken Raider (Female)
+880: (N) Frigate
+883: Tusken Bantha Trooper
+887: Tusken Raider Rifleman
+890: (N) Adv Frigate
+891: Twi'Lek Female
+895: Twi'lek Male
+899: Zian Finnis
+900: (N) Destroyer
+910: (N) Hvy Destroyer
+920: (N) Anti-Air Destroyer
+930: (N) Hvy Anti-Air Destroyer
+931: Cargo Hovercraft
+938: Sandcrawler
+943: (N) Medic
+953: (N) Undeployed Cannon
+965: (N) Bounty Hunter
+977: (N) Elite Royal Crusader
+985: (N) Cannon
+1012: (N) Power Droid
+1042: (N) Air Transport
+1198: Bursa
+1199: Bursa Leader
+1202: Undefeatable Object
+1239: Explosive Droid
+1328: Sacred Staff
+1420: (N) Royal Starship
+1425: Droid Control Program
+1430: Fambaa
+1581: Luke's Landspeeder
+1584: Tusken Raider (Melee)
+
+## Royal Naboo / Buildings (163)
+7: Asteroid Supply Depot
+12: Power Core
+19: Transmitter
+45: Shipyard
+49: Hvy Weapons Factory
+50: Farm
+64: Gate
+68: Food Proc Ctr
+70: Prefab Shelter
+72: Light Wall
+79: Light Turret
+82: Fortress
+84: Spaceport
+87: Troop Center
+88: Gate
+101: Mech Factory
+103: War Center
+104: Jedi Temple
+109: Command Center
+117: Medium Wall
+155: Hvy Wall
+195: Shield Wall
+196: Adv Anti-Air Turret
+199: AquaHarvester
+209: Research Center
+234: Medium Turret
+235: Advanced Turret
+236: Anti-Air Turret
+275: B'omarr Temple
+276: Monument
+284: Boorka's Palace
+299: Freighter 1 (Landed)
+300: Freighter 2 (Landed)
+311: Tatooine Crashed Starship
+312: Commerce Guild Trpt (Landed)
+313: Coruscant Building 1
+314: Coruscant Building 2
+317: Airbase
+319: Animal Nursery
+323: Nova Crystal Proc Ctr
+327: Coruscant Building 3
+328: Coruscant Building 4
+333: Coruscant Building 5
+334: Coruscant Building 6
+335: Shield Generator
+338: Coruscant Building 7
+339: Coruscant Building 8
+340: Coruscant Building 9
+341: Mt. Corvast Citadel
+342: Decimator Facility
+467: Decimator Laboratory
+474: Decimator (Locked-Down)
+476: Decimator Production Yard
+480: Interstellar Sail Ship (Landed)
+482: Energy Collection Repository
+483: Drill Platform Collector
+494: Escape Pod
+518: Jabba's Palace
+519: Jawa Camp
+523: Large Energy Collection Repository
+524: Tatooine Moisture Farm
+525: Tatooine Docking Bay
+526: Tatooine Market
+527: Tatooine Hovel 1
+528: Tatooine Hovel 2
+529: Tatooine Slave Quarters
+530: Tatooine Spaceport
+531: Power Relay
+532: Rocketship (Landed)
+533: Republic Troop Lander (Landed)
+534: Slave I (Landed)
+535: Tann's Transport (Landed)
+536: Tusken Tents 1
+537: Tusken Tents 2
+562: Carbon Proc Ctr
+584: Ore Proc Ctr
+598: Sentry Post
+659: Gate
+667: Gate
+678: Droid Storage Facility
+826: Command Base
+950: Colony Ship
+1021: Bridge A Start
+1022: Bridge A Mid
+1023: Bridge A End
+1024: Bridge A End (Broken)
+1025: Bridge B End
+1026: Bridge B Start
+1027: Bridge B Mid
+1028: Bridge A Mid (Broken)
+1029: Bridge A Start (Broken)
+1030: Bridge B Start (Broken)
+1031: Bridge B End (Broken)
+1032: Bridge B Mid (Broken)
+1049: Sith Infiltrator
+1050: Landed Rebel Transport
+1052: Massassi Temple
+1053: Lander
+1054: Lambda Class Shuttle
+1055: Theed House
+1056: Theed House
+1057: Theed Gazebo
+1059: Theed Temple
+1060: Theed Hangar
+1061: Naboo Tower
+1062: Theed Power Station
+1063: Theed Palace
+1064: Theed Turret
+1184: Tatooine House A
+1185: Tatooine House B
+1186: Tatooine Bldg A
+1187: Tatooine Tower A
+1188: Tatooine Vaporator
+1189: Bridge A Mid Destructable
+1190: Theed Monument
+1194: Echo Base Power Generator
+1195: Echo Base Ion Cannon
+1207: Bursa Hut
+1213: Theed House
+1214: Theed House
+1216: Bespin Bldg 1
+1217: Bespin Bldg 4
+1218: Bespin Government Center
+1219: Bespin Bldg 5
+1220: Bespin Bldg 10
+1221: Bespin Bldg 6
+1222: Bespin Bldg 7
+1223: Bespin Bldg 8
+1224: Bespin Bldg 9
+1225: Bespin Bldg 2
+1226: Bespin Bldg 3
+1248: Bridge B Mid Destructable
+1284: AquaProduction Plant
+1291: Invisible Target
+1294: Main Reactor
+1295: Massassi Great Temple
+1298: Trandoshan Building
+1299: Endor Shield Generator
+1300: Food Storehouse
+1301: Bunker
+1302: Atmosphere Factory
+1303: Landing Platform
+1304: Jamming Device
+1306: Kessel Prison Building
+1307: Kessel Mining Building
+1308: Large Jedi Ruins
+1311: Ewok Hut
+1312: Gungan Temple
+1313: Ewok Military Structure
+1336: Main Terraform Processor
+1337: Imperial Palace
+1338: Communications Jammer
+1340: Atmosphere Proc Station
+1342: Small Jedi Ruins
+1374: Yoda's Hovel
+1428: Theed Arch
+1432: Theed Arch
+1433: Theed Arch
+1434: Theed Arch
+1454: Trandoshan Building
+1458: Gravity Control Generator
+1576: Sensor Buoy
+1589: Coruscant Building 10
+
+## Royal Naboo / Heroes (21)
+252: (N) Anakin Skywalker
+545: Decimator
+549: Outrider
+557: Slave I (Boba Fett)
+559: Slave I (Jango Fett)
+569: Virago
+605: (N) Queen Amidala
+658: Bib Fortuna
+694: Chief Jawa
+699: Data Droid
+718: Boorka The Hutt
+720: Jabba The Hutt
+722: IG-88
+843: (N) Senator Padmé Amidala
+1076: (N) Obi-Wan Kenobi
+1082: (N) Qui-Gon Jinn
+1087: (N) Sio Bibble
+1096: (N) Captain Panaka
+1229: Millenium Falcon
+1262: (N) Aurra Sing
+1588: Tann's Transport
+
+## Trade Federation / Units (93)
+13: Utility Trawler
+52: (F) Sith Apprentice
+83: Worker
+89: (F) Sith Master
+97: (F) Sith Knight
+108: (F) Adv Bomber
+113: (F) Adv Fighter
+127: (F) Bomber
+158: (F) Fighter
+160: (F) Enh Bomber
+163: (F) Fast Fighter
+167: (F) Medic
+169: (F) Undeployed Cannon
+170: (F) Bounty Hunter
+172: (F) Hvy Destroyer Droid
+174: (F) Destroyer Droid
+176: (F) Adv Frigate
+177: (F) Adv Cruiser
+182: (F) Hvy Destroyer
+184: (F) Hvy Anti-Air Destroyer
+186: (F) Destroyer
+187: (F) Lt Frigate
+188: (F) Anti-Air Destroyer
+189: (F) Frigate
+190: (F) Cruiser
+191: (F) Transport Ship
+192: (F) Hvy Artillery
+197: (F) Hvy Anti-Air Mobile
+200: (F) Hvy Pummel
+203: (F) Artillery
+207: (F) Anti-Air Mobile
+231: (F) Pummel
+244: (F) Strike Mech
+246: (F) Mech Destroyer
+249: (F) Assault Mech
+258: (F) Scout
+261: (F) Hvy Strike Mech
+263: (F) Hvy Mech Destroyer
+277: (F) Hvy Assault Mech
+287: (F) Adv Mnted Trooper
+289: (F) Mounted Trooper
+292: (F) Grenade Trooper
+295: (F) Hvy Mnted Trooper
+297: (F) Hvy Trooper
+301: (F) Hvy A-Air Trooper
+303: (F) Repeater Trooper
+305: (F) Anti-Air Trooper
+309: (F) Trooper Recruit
+315: (F) Trooper
+434: Trade Federation Commander
+468: (F) Cannon
+522: Jabba's Sail Barge
+542: Anakin's Podracer
+543: Desert Skiff
+546: Interstellar Sail Ship
+547: Lambda Shuttle
+548: Landspeeder
+551: Sebulba's Podracer
+555: Skyhopper
+594: Nerf
+628: (F) Air Cruiser
+680: B'omarr Monk
+696: Lava Bubble (Destructive)
+703: Gamorrean Guard
+724: Jawa (Ranged)
+833: Bantha
+857: Aqualish
+859: Barada
+861: Klaatu
+863: Nikto
+865: Quarren
+867: Rodian
+871: Weequay Skiff Guard
+875: Tusken Child
+879: Tusken Raider (Female)
+883: Tusken Bantha Trooper
+887: Tusken Raider Rifleman
+891: Twi'Lek Female
+895: Twi'lek Male
+899: Zian Finnis
+931: Cargo Hovercraft
+938: Sandcrawler
+1010: (F) Power Droid
+1038: (F) Air Transport
+1198: Bursa
+1199: Bursa Leader
+1202: Undefeatable Object
+1239: Explosive Droid
+1328: Sacred Staff
+1425: Droid Control Program
+1430: Fambaa
+1581: Luke's Landspeeder
+1584: Tusken Raider (Melee)
+
+## Trade Federation / Buildings (166)
+7: Asteroid Supply Depot
+12: Power Core
+19: Transmitter
+24: (F) Battleship Core
+45: Shipyard
+49: Hvy Weapons Factory
+50: Farm
+64: Gate
+68: Food Proc Ctr
+70: Prefab Shelter
+72: Light Wall
+79: Light Turret
+82: Fortress
+84: Spaceport
+87: Troop Center
+88: Gate
+101: Mech Factory
+103: War Center
+104: Sith Temple
+109: Command Center
+117: Medium Wall
+155: Hvy Wall
+195: Shield Wall
+196: Adv Anti-Air Turret
+199: AquaHarvester
+209: Research Center
+234: Medium Turret
+235: Advanced Turret
+236: Anti-Air Turret
+275: B'omarr Temple
+276: Monument
+284: Boorka's Palace
+299: Freighter 1 (Landed)
+300: Freighter 2 (Landed)
+311: Tatooine Crashed Starship
+312: Commerce Guild Trpt (Landed)
+313: Coruscant Building 1
+314: Coruscant Building 2
+317: Airbase
+319: Animal Nursery
+323: Nova Crystal Proc Ctr
+327: Coruscant Building 3
+328: Coruscant Building 4
+333: Coruscant Building 5
+334: Coruscant Building 6
+335: Shield Generator
+338: Coruscant Building 7
+339: Coruscant Building 8
+340: Coruscant Building 9
+341: Mt. Corvast Citadel
+342: Decimator Facility
+467: Decimator Laboratory
+474: Decimator (Locked-Down)
+476: Decimator Production Yard
+480: Interstellar Sail Ship (Landed)
+482: Energy Collection Repository
+483: Drill Platform Collector
+494: Escape Pod
+496: (F) Mining Core
+499: (F) Mining Facility
+518: Jabba's Palace
+519: Jawa Camp
+523: Large Energy Collection Repository
+524: Tatooine Moisture Farm
+525: Tatooine Docking Bay
+526: Tatooine Market
+527: Tatooine Hovel 1
+528: Tatooine Hovel 2
+529: Tatooine Slave Quarters
+530: Tatooine Spaceport
+531: Power Relay
+532: Rocketship (Landed)
+533: Republic Troop Lander (Landed)
+534: Slave I (Landed)
+535: Tann's Transport (Landed)
+536: Tusken Tents 1
+537: Tusken Tents 2
+562: Carbon Proc Ctr
+584: Ore Proc Ctr
+598: Sentry Post
+659: Gate
+667: Gate
+678: Droid Storage Facility
+826: Command Base
+950: Colony Ship
+1021: Bridge A Start
+1022: Bridge A Mid
+1023: Bridge A End
+1024: Bridge A End (Broken)
+1025: Bridge B End
+1026: Bridge B Start
+1027: Bridge B Mid
+1028: Bridge A Mid (Broken)
+1029: Bridge A Start (Broken)
+1030: Bridge B Start (Broken)
+1031: Bridge B End (Broken)
+1032: Bridge B Mid (Broken)
+1049: Sith Infiltrator
+1050: Landed Rebel Transport
+1052: Massassi Temple
+1053: Lander
+1054: Lambda Class Shuttle
+1055: Theed House
+1056: Theed House
+1057: Theed Gazebo
+1059: Theed Temple
+1060: Theed Hangar
+1061: Naboo Tower
+1062: Theed Power Station
+1063: Theed Palace
+1064: Theed Turret
+1184: Tatooine House A
+1185: Tatooine House B
+1186: Tatooine Bldg A
+1187: Tatooine Tower A
+1188: Tatooine Vaporator
+1189: Bridge A Mid Destructable
+1190: Theed Monument
+1194: Echo Base Power Generator
+1195: Echo Base Ion Cannon
+1207: Bursa Hut
+1213: Theed House
+1214: Theed House
+1216: Bespin Bldg 1
+1217: Bespin Bldg 4
+1218: Bespin Government Center
+1219: Bespin Bldg 5
+1220: Bespin Bldg 10
+1221: Bespin Bldg 6
+1222: Bespin Bldg 7
+1223: Bespin Bldg 8
+1224: Bespin Bldg 9
+1225: Bespin Bldg 2
+1226: Bespin Bldg 3
+1248: Bridge B Mid Destructable
+1284: AquaProduction Plant
+1291: Invisible Target
+1294: Main Reactor
+1295: Massassi Great Temple
+1298: Trandoshan Building
+1299: Endor Shield Generator
+1300: Food Storehouse
+1301: Bunker
+1302: Atmosphere Factory
+1303: Landing Platform
+1304: Jamming Device
+1306: Kessel Prison Building
+1307: Kessel Mining Building
+1308: Large Jedi Ruins
+1311: Ewok Hut
+1312: Gungan Temple
+1313: Ewok Military Structure
+1336: Main Terraform Processor
+1337: Imperial Palace
+1338: Communications Jammer
+1340: Atmosphere Proc Station
+1342: Small Jedi Ruins
+1374: Yoda's Hovel
+1428: Theed Arch
+1432: Theed Arch
+1433: Theed Arch
+1434: Theed Arch
+1454: Trandoshan Building
+1458: Gravity Control Generator
+1576: Sensor Buoy
+1589: Coruscant Building 10
+
+## Trade Federation / Heroes (30)
+545: Decimator
+549: Outrider
+557: Slave I (Boba Fett)
+559: Slave I (Jango Fett)
+569: Virago
+658: Bib Fortuna
+694: Chief Jawa
+699: Data Droid
+718: Boorka The Hutt
+720: Jabba The Hutt
+722: IG-88
+845: (F) Plure Barron
+1065: (F) OOM-9
+1066: (F) UTT-90
+1067: (F) MUQ-751
+1068: (F) DRN-592
+1069: (F) YIN-762
+1070: (F) LUH-989
+1071: (F) EEK-176
+1072: (F) OOM-14
+1073: (F) DNM-908
+1074: (F) Z23-Y75
+1081: (F) Darth Maul
+1084: (F) Darth Sidious
+1229: Millenium Falcon
+1254: (F) Neimoidian Technician
+1316: (F) Mahwi Lihnn
+1368: (F) Viceroy Nute Gunray
+1418: (F) AAT (OOM-9)
+1588: Tann's Transport
+
+## Wookiees / Units (95)
+8: (W) Berserker
+13: Utility Trawler
+77: (W) Jedi Knight
+83: Worker
+140: (W) Jedi Master
+239: (W) Jedi Padawan
+286: (W) Trooper Recruit
+352: (W) Adv Mnted Trooper
+378: (W) Mounted Trooper
+389: (W) Grenade Trooper
+399: (W) Hvy Mnted Trooper
+409: (W) Hvy A-Air Trooper
+424: (W) Hvy Trooper
+434: Wookiee Commander
+436: (W) Repeater Trooper
+446: (W) Anti-Air Trooper
+462: (W) Trooper
+479: (W) Strike Mech
+497: (W) Mech Destroyer
+517: (W) Assault Mech
+522: Jabba's Sail Barge
+542: Anakin's Podracer
+543: Desert Skiff
+546: Interstellar Sail Ship
+547: Lambda Shuttle
+548: Landspeeder
+551: Sebulba's Podracer
+555: Skyhopper
+558: (W) Scout
+572: (W) Hvy Strike Mech
+594: Nerf
+596: (W) Hvy Mech Destroyer
+629: (W) Hvy Assault Mech
+636: (W) Air Cruiser
+639: (W) Hvy Artillery
+679: (W) Hvy Anti-Air Mobile
+680: B'omarr Monk
+689: (W) Hvy Pummel
+696: Lava Bubble (Destructive)
+700: (W) Artillery
+703: Gamorrean Guard
+711: (W) Anti-Air Mobile
+721: (W) Pummel
+724: Jawa (Ranged)
+750: (W) Adv Bomber
+760: (W) Adv Fighter
+771: (W) Bomber
+781: (W) Fighter
+791: (W) Enh Bomber
+801: (W) Fast Fighter
+811: (W) Adv Cruiser
+825: (W) Cruiser
+833: Bantha
+835: (W) Hvy Anti-Air Destroyer
+842: (W) Transport Ship
+857: Aqualish
+859: Barada
+861: Klaatu
+863: Nikto
+865: Quarren
+867: Rodian
+871: Weequay Skiff Guard
+874: (W) Lt Frigate
+875: Tusken Child
+879: Tusken Raider (Female)
+883: Tusken Bantha Trooper
+884: (W) Frigate
+887: Tusken Raider Rifleman
+891: Twi'Lek Female
+894: (W) Adv Frigate
+895: Twi'lek Male
+899: Zian Finnis
+902: (W) Destroyer
+912: (W) Hvy Destroyer
+926: (W) Anti-Air Destroyer
+931: Cargo Hovercraft
+938: Sandcrawler
+947: (W) Medic
+955: (W) Undeployed Cannon
+969: (W) Bounty Hunter
+981: (W) Adv Berserker
+987: (W) Cannon
+1014: (W) Power Droid
+1044: (W) Air Transport
+1198: Bursa
+1199: Bursa Leader
+1202: Undefeatable Object
+1237: (W) X-wing Fighter (Luke)
+1239: Explosive Droid
+1318: (W) Wounded Attichitcuk
+1328: Sacred Staff
+1425: Droid Control Program
+1430: Fambaa
+1581: Luke's Landspeeder
+1584: Tusken Raider (Melee)
+
+## Wookiees / Buildings (164)
+7: Asteroid Supply Depot
+12: Power Core
+19: Transmitter
+45: Shipyard
+49: Hvy Weapons Factory
+50: Farm
+64: Gate
+68: Food Proc Ctr
+70: Prefab Shelter
+72: Light Wall
+79: Light Turret
+82: Fortress
+84: Spaceport
+87: Troop Center
+88: Gate
+101: Mech Factory
+103: War Center
+104: Jedi Temple
+109: Command Center
+117: Medium Wall
+155: Hvy Wall
+195: Shield Wall
+196: Adv Anti-Air Turret
+199: AquaHarvester
+209: Research Center
+234: Medium Turret
+235: Advanced Turret
+236: Anti-Air Turret
+275: B'omarr Temple
+276: Monument
+284: Boorka's Palace
+299: Freighter 1 (Landed)
+300: Freighter 2 (Landed)
+311: Tatooine Crashed Starship
+312: Commerce Guild Trpt (Landed)
+313: Coruscant Building 1
+314: Coruscant Building 2
+317: Airbase
+319: Animal Nursery
+323: Nova Crystal Proc Ctr
+327: Coruscant Building 3
+328: Coruscant Building 4
+333: Coruscant Building 5
+334: Coruscant Building 6
+335: Shield Generator
+338: Coruscant Building 7
+339: Coruscant Building 8
+340: Coruscant Building 9
+341: Mt. Corvast Citadel
+342: Decimator Facility
+467: Decimator Laboratory
+474: Decimator (Locked-Down)
+476: Decimator Production Yard
+480: Interstellar Sail Ship (Landed)
+482: Energy Collection Repository
+483: Drill Platform Collector
+494: Escape Pod
+518: Jabba's Palace
+519: Jawa Camp
+523: Large Energy Collection Repository
+524: Tatooine Moisture Farm
+525: Tatooine Docking Bay
+526: Tatooine Market
+527: Tatooine Hovel 1
+528: Tatooine Hovel 2
+529: Tatooine Slave Quarters
+530: Tatooine Spaceport
+531: Power Relay
+532: Rocketship (Landed)
+533: Republic Troop Lander (Landed)
+534: Slave I (Landed)
+535: Tann's Transport (Landed)
+536: Tusken Tents 1
+537: Tusken Tents 2
+541: (W) Wookie Transmission Tower
+562: Carbon Proc Ctr
+584: Ore Proc Ctr
+598: Sentry Post
+659: Gate
+667: Gate
+678: Droid Storage Facility
+826: Command Base
+950: Colony Ship
+1021: Bridge A Start
+1022: Bridge A Mid
+1023: Bridge A End
+1024: Bridge A End (Broken)
+1025: Bridge B End
+1026: Bridge B Start
+1027: Bridge B Mid
+1028: Bridge A Mid (Broken)
+1029: Bridge A Start (Broken)
+1030: Bridge B Start (Broken)
+1031: Bridge B End (Broken)
+1032: Bridge B Mid (Broken)
+1049: Sith Infiltrator
+1050: Landed Rebel Transport
+1052: Massassi Temple
+1053: Lander
+1054: Lambda Class Shuttle
+1055: Theed House
+1056: Theed House
+1057: Theed Gazebo
+1059: Theed Temple
+1060: Theed Hangar
+1061: Naboo Tower
+1062: Theed Power Station
+1063: Theed Palace
+1064: Theed Turret
+1184: Tatooine House A
+1185: Tatooine House B
+1186: Tatooine Bldg A
+1187: Tatooine Tower A
+1188: Tatooine Vaporator
+1189: Bridge A Mid Destructable
+1190: Theed Monument
+1194: Echo Base Power Generator
+1195: Echo Base Ion Cannon
+1207: Bursa Hut
+1213: Theed House
+1214: Theed House
+1216: Bespin Bldg 1
+1217: Bespin Bldg 4
+1218: Bespin Government Center
+1219: Bespin Bldg 5
+1220: Bespin Bldg 10
+1221: Bespin Bldg 6
+1222: Bespin Bldg 7
+1223: Bespin Bldg 8
+1224: Bespin Bldg 9
+1225: Bespin Bldg 2
+1226: Bespin Bldg 3
+1248: Bridge B Mid Destructable
+1284: AquaProduction Plant
+1291: Invisible Target
+1294: Main Reactor
+1295: Massassi Great Temple
+1298: Trandoshan Building
+1299: Endor Shield Generator
+1300: Food Storehouse
+1301: Bunker
+1302: Atmosphere Factory
+1303: Landing Platform
+1304: Jamming Device
+1306: Kessel Prison Building
+1307: Kessel Mining Building
+1308: Large Jedi Ruins
+1311: Ewok Hut
+1312: Gungan Temple
+1313: Ewok Military Structure
+1336: Main Terraform Processor
+1337: Imperial Palace
+1338: Communications Jammer
+1340: Atmosphere Proc Station
+1342: Small Jedi Ruins
+1374: Yoda's Hovel
+1428: Theed Arch
+1432: Theed Arch
+1433: Theed Arch
+1434: Theed Arch
+1454: Trandoshan Building
+1458: Gravity Control Generator
+1576: Sensor Buoy
+1589: Coruscant Building 10
+
+## Wookiees / Heroes (23)
+23: (W) Chewbacca Melee
+545: Decimator
+549: Outrider
+557: Slave I (Boba Fett)
+559: Slave I (Jango Fett)
+569: Virago
+606: (W) Attichitcuk
+608: (W) Chewbacca
+658: Bib Fortuna
+694: Chief Jawa
+699: Data Droid
+718: Boorka The Hutt
+720: Jabba The Hutt
+722: IG-88
+1093: (W) Lumpawarrump
+1094: (W) Weebacca
+1102: (W) Tallamitta
+1110: (W) Shoran
+1229: Millenium Falcon
+1238: (W) Millenium Falcon (Lando)
+1264: (W) Snoova
+1417: (W) AT-ST (Chewie)
+1588: Tann's Transport
+
+## Republic / Units (94)
+13: Utility Trawler
+83: Worker
+434: Republic Commander
+522: Jabba's Sail Barge
+542: Anakin's Podracer
+543: Desert Skiff
+546: Interstellar Sail Ship
+547: Lambda Shuttle
+548: Landspeeder
+551: Sebulba's Podracer
+555: Skyhopper
+594: Nerf
+619: (A) Air Cruiser
+638: (A) Adv Jedi Starfighter
+641: (A) Jedi Starfighter
+643: (A) Jedi Master
+647: (A) Jedi Padawan
+680: B'omarr Monk
+696: Lava Bubble (Destructive)
+703: Gamorrean Guard
+724: Jawa (Ranged)
+833: Bantha
+850: (A) Senate Guard
+857: Aqualish
+859: Barada
+861: Klaatu
+863: Nikto
+865: Quarren
+867: Rodian
+871: Weequay Skiff Guard
+875: Tusken Child
+879: Tusken Raider (Female)
+883: Tusken Bantha Trooper
+887: Tusken Raider Rifleman
+891: Twi'Lek Female
+895: Twi'lek Male
+899: Zian Finnis
+903: (A) Strike Mech
+911: (A) Mech Destroyer
+919: (A) Assault Mech
+927: (A) Scout
+931: Cargo Hovercraft
+938: Sandcrawler
+957: (A) Hvy Strike Mech
+973: (A) Hvy Mech Destroyer
+989: (A) Hvy Assault Mech
+996: (A) Medic
+1007: (A) Power Droid
+1015: (A) Adv Mounted Trooper
+1043: (A) Mounted Trooper
+1198: Bursa
+1199: Bursa Leader
+1202: Undefeatable Object
+1239: Explosive Droid
+1328: Sacred Staff
+1425: Droid Control Program
+1430: Fambaa
+1477: (A) Adv Frigate
+1478: (A) Grenade Trooper
+1481: (A) Adv Cruiser
+1485: (A) Hvy Destroyer
+1486: (A) Hvy Mounted Trooper
+1489: (A) Hvy Anti-Air Destroyer
+1493: (A) Destroyer
+1494: (A) Hvy Anti-Air Trooper
+1497: (A) Lt Frigate
+1501: (A) Anti-Air Destroyer
+1502: (A) Hvy Trooper
+1505: (A) Frigate
+1509: (A) Cruiser
+1510: (A) Repeater Trooper
+1513: (A) Transport Ship
+1517: (A) Adv Bomber
+1519: (A) Adv Fighter
+1521: (A) Air Transport
+1523: (A) Bomber
+1525: (A) Fighter
+1527: (A) Enh Bomber
+1529: (A) Fast Fighter
+1531: (A) Undeployed Cannon
+1533: (A) Bounty Hunter
+1537: (A) Cannon
+1539: (A) Hvy Artillery
+1540: (A) Anti-Air Trooper
+1543: (A) Hvy Anti-Air Mobile
+1547: (A) Hvy Pummel
+1548: (A) Trooper Recruit
+1551: (A) Artillery
+1555: (A) Anti-Air Mobile
+1556: (A) Trooper
+1559: (A) Pummel
+1569: (A) Jedi Knight
+1581: Luke's Landspeeder
+1584: Tusken Raider (Melee)
+
+## Republic / Buildings (163)
+7: Asteroid Supply Depot
+12: Power Core
+19: Transmitter
+45: Shipyard
+49: Hvy Weapons Factory
+50: Farm
+64: Gate
+68: Food Proc Ctr
+70: Prefab Shelter
+72: Light Wall
+79: Light Turret
+82: Fortress
+84: Spaceport
+87: Troop Center
+88: Gate
+101: Mech Factory
+103: War Center
+104: Jedi Temple
+109: Command Center
+117: Medium Wall
+155: Hvy Wall
+195: Shield Wall
+196: Adv Anti-Air Turret
+199: AquaHarvester
+209: Research Center
+234: Medium Turret
+235: Advanced Turret
+236: Anti-Air Turret
+275: B'omarr Temple
+276: Monument
+284: Boorka's Palace
+299: Freighter 1 (Landed)
+300: Freighter 2 (Landed)
+311: Tatooine Crashed Starship
+312: Commerce Guild Trpt (Landed)
+313: Coruscant Building 1
+314: Coruscant Building 2
+317: Airbase
+319: Animal Nursery
+323: Nova Crystal Proc Ctr
+327: Coruscant Building 3
+328: Coruscant Building 4
+333: Coruscant Building 5
+334: Coruscant Building 6
+335: Shield Generator
+338: Coruscant Building 7
+339: Coruscant Building 8
+340: Coruscant Building 9
+341: Mt. Corvast Citadel
+342: Decimator Facility
+467: Decimator Laboratory
+474: Decimator (Locked-Down)
+476: Decimator Production Yard
+480: Interstellar Sail Ship (Landed)
+482: Energy Collection Repository
+483: Drill Platform Collector
+494: Escape Pod
+518: Jabba's Palace
+519: Jawa Camp
+523: Large Energy Collection Repository
+524: Tatooine Moisture Farm
+525: Tatooine Docking Bay
+526: Tatooine Market
+527: Tatooine Hovel 1
+528: Tatooine Hovel 2
+529: Tatooine Slave Quarters
+530: Tatooine Spaceport
+531: Power Relay
+532: Rocketship (Landed)
+533: Republic Troop Lander (Landed)
+534: Slave I (Landed)
+535: Tann's Transport (Landed)
+536: Tusken Tents 1
+537: Tusken Tents 2
+562: Carbon Proc Ctr
+584: Ore Proc Ctr
+598: Sentry Post
+659: Gate
+667: Gate
+678: Droid Storage Facility
+826: Command Base
+950: Colony Ship
+1021: Bridge A Start
+1022: Bridge A Mid
+1023: Bridge A End
+1024: Bridge A End (Broken)
+1025: Bridge B End
+1026: Bridge B Start
+1027: Bridge B Mid
+1028: Bridge A Mid (Broken)
+1029: Bridge A Start (Broken)
+1030: Bridge B Start (Broken)
+1031: Bridge B End (Broken)
+1032: Bridge B Mid (Broken)
+1049: Sith Infiltrator
+1050: Landed Rebel Transport
+1052: Massassi Temple
+1053: Lander
+1054: Lambda Class Shuttle
+1055: Theed House
+1056: Theed House
+1057: Theed Gazebo
+1059: Theed Temple
+1060: Theed Hangar
+1061: Naboo Tower
+1062: Theed Power Station
+1063: Theed Palace
+1064: Theed Turret
+1184: Tatooine House A
+1185: Tatooine House B
+1186: Tatooine Bldg A
+1187: Tatooine Tower A
+1188: Tatooine Vaporator
+1189: Bridge A Mid Destructable
+1190: Theed Monument
+1194: Echo Base Power Generator
+1195: Echo Base Ion Cannon
+1207: Bursa Hut
+1213: Theed House
+1214: Theed House
+1216: Bespin Bldg 1
+1217: Bespin Bldg 4
+1218: Bespin Government Center
+1219: Bespin Bldg 5
+1220: Bespin Bldg 10
+1221: Bespin Bldg 6
+1222: Bespin Bldg 7
+1223: Bespin Bldg 8
+1224: Bespin Bldg 9
+1225: Bespin Bldg 2
+1226: Bespin Bldg 3
+1248: Bridge B Mid Destructable
+1284: AquaProduction Plant
+1291: Invisible Target
+1294: Main Reactor
+1295: Massassi Great Temple
+1298: Trandoshan Building
+1299: Endor Shield Generator
+1300: Food Storehouse
+1301: Bunker
+1302: Atmosphere Factory
+1303: Landing Platform
+1304: Jamming Device
+1306: Kessel Prison Building
+1307: Kessel Mining Building
+1308: Large Jedi Ruins
+1311: Ewok Hut
+1312: Gungan Temple
+1313: Ewok Military Structure
+1336: Main Terraform Processor
+1337: Imperial Palace
+1338: Communications Jammer
+1340: Atmosphere Proc Station
+1342: Small Jedi Ruins
+1374: Yoda's Hovel
+1428: Theed Arch
+1432: Theed Arch
+1433: Theed Arch
+1434: Theed Arch
+1454: Trandoshan Building
+1458: Gravity Control Generator
+1576: Sensor Buoy
+1589: Coruscant Building 10
+
+## Republic / Heroes (26)
+545: Decimator
+549: Outrider
+557: Slave I (Boba Fett)
+559: Slave I (Jango Fett)
+569: Virago
+658: Bib Fortuna
+690: (A) C-3P0 [Episode II]
+694: Chief Jawa
+699: Data Droid
+718: Boorka The Hutt
+720: Jabba The Hutt
+722: IG-88
+728: (A) Jor Drakas
+731: (A) Gen. Echuu Shen-Jon
+747: (A) Ki-Adi-Mundi
+761: (A) Mace Windu
+770: (A) Master Kenobi
+778: (A) Plo Koon
+792: (A) Fighting Yoda
+800: (A) Anakin Skywalker [Episode II]
+806: (A) Depa Billaba
+814: (A) Naat Reath
+824: (A) Stam Reath
+854: (A) Supreme Chancellor Palpatine
+1229: Millenium Falcon
+1588: Tann's Transport
+
+## Confederacy / Units (97)
+13: Utility Trawler
+83: Worker
+434: Confederacy Commander
+481: (C) Acklay (Controlled)
+522: Jabba's Sail Barge
+542: Anakin's Podracer
+543: Desert Skiff
+546: Interstellar Sail Ship
+547: Lambda Shuttle
+548: Landspeeder
+551: Sebulba's Podracer
+555: Skyhopper
+594: Nerf
+620: (C) Air Cruiser
+640: (C) Elite Geonosian Warrior
+642: (C) Geonosian Warrior
+645: (C) Sith Master
+652: (C) Sith Apprentice
+680: B'omarr Monk
+696: Lava Bubble (Destructive)
+703: Gamorrean Guard
+724: Jawa (Ranged)
+833: Bantha
+857: Aqualish
+859: Barada
+860: (C) Nexu (Controlled)
+861: Klaatu
+863: Nikto
+865: Quarren
+867: Rodian
+871: Weequay Skiff Guard
+875: Tusken Child
+879: Tusken Raider (Female)
+883: Tusken Bantha Trooper
+887: Tusken Raider Rifleman
+891: Twi'Lek Female
+895: Twi'lek Male
+899: Zian Finnis
+907: (C) Strike Mech
+915: (C) Mech Destroyer
+921: (C) Reek (Controlled)
+923: (C) Assault Mech
+931: Cargo Hovercraft
+932: (C) Scout
+938: Sandcrawler
+959: (C) Hvy Strike Mech
+980: (C) Hvy Mech Destroyer
+991: (C) Hvy Assault Mech
+1005: (C) Medic
+1008: (C) Power Droid
+1037: (C) Adv Mounted Trooper
+1047: (C) Mounted Trooper
+1198: Bursa
+1199: Bursa Leader
+1202: Undefeatable Object
+1239: Explosive Droid
+1328: Sacred Staff
+1425: Droid Control Program
+1430: Fambaa
+1479: (C) Adv Frigate
+1482: (C) Grenade Trooper
+1483: (C) Adv Cruiser
+1487: (C) Hvy Destroyer
+1490: (C) Hvy Mounted Trooper
+1491: (C) Hvy Anti-Air Destroyer
+1495: (C) Destroyer
+1498: (C) Hvy Anti-Air Trooper
+1499: (C) Lt Frigate
+1503: (C) Anti-Air Destroyer
+1506: (C) Hvy Trooper
+1507: (C) Frigate
+1511: (C) Cruiser
+1514: (C) Repeater Trooper
+1515: (C) Transport Ship
+1518: (C) Adv Bomber
+1520: (C) Adv Fighter
+1522: (C) Air Transport
+1524: (C) Bomber
+1526: (C) Fighter
+1528: (C) Enh Bomber
+1530: (C) Fast Fighter
+1532: (C) Undeployed Cannon
+1535: (C) Bounty Hunter
+1538: (C) Cannon
+1541: (C) Hvy Artillery
+1544: (C) Anti-Air Trooper
+1545: (C) Hvy Anti-Air Mobile
+1549: (C) Hvy Pummel
+1552: (C) Trooper Recruit
+1553: (C) Artillery
+1557: (C) Anti-Air Mobile
+1560: (C) Trooper
+1561: (C) Pummel
+1567: (C) Sith Knight
+1581: Luke's Landspeeder
+1584: Tusken Raider (Melee)
+1593: (C) Rancor (Controlled)
+
+## Confederacy / Buildings (163)
+7: Asteroid Supply Depot
+12: Power Core
+19: Transmitter
+45: Shipyard
+49: Hvy Weapons Factory
+50: Farm
+64: Gate
+68: Food Proc Ctr
+70: Prefab Shelter
+72: Light Wall
+79: Light Turret
+82: Fortress
+84: Spaceport
+87: Troop Center
+88: Gate
+101: Mech Factory
+103: War Center
+104: Sith Temple
+109: Command Center
+117: Medium Wall
+155: Hvy Wall
+195: Shield Wall
+196: Adv Anti-Air Turret
+199: AquaHarvester
+209: Research Center
+234: Medium Turret
+235: Advanced Turret
+236: Anti-Air Turret
+275: B'omarr Temple
+276: Monument
+284: Boorka's Palace
+299: Freighter 1 (Landed)
+300: Freighter 2 (Landed)
+311: Tatooine Crashed Starship
+312: Commerce Guild Trpt (Landed)
+313: Coruscant Building 1
+314: Coruscant Building 2
+317: Airbase
+319: Animal Nursery
+323: Nova Crystal Proc Ctr
+327: Coruscant Building 3
+328: Coruscant Building 4
+333: Coruscant Building 5
+334: Coruscant Building 6
+335: Shield Generator
+338: Coruscant Building 7
+339: Coruscant Building 8
+340: Coruscant Building 9
+341: Mt. Corvast Citadel
+342: Decimator Facility
+467: Decimator Laboratory
+474: Decimator (Locked-Down)
+476: Decimator Production Yard
+480: Interstellar Sail Ship (Landed)
+482: Energy Collection Repository
+483: Drill Platform Collector
+494: Escape Pod
+518: Jabba's Palace
+519: Jawa Camp
+523: Large Energy Collection Repository
+524: Tatooine Moisture Farm
+525: Tatooine Docking Bay
+526: Tatooine Market
+527: Tatooine Hovel 1
+528: Tatooine Hovel 2
+529: Tatooine Slave Quarters
+530: Tatooine Spaceport
+531: Power Relay
+532: Rocketship (Landed)
+533: Republic Troop Lander (Landed)
+534: Slave I (Landed)
+535: Tann's Transport (Landed)
+536: Tusken Tents 1
+537: Tusken Tents 2
+562: Carbon Proc Ctr
+584: Ore Proc Ctr
+598: Sentry Post
+659: Gate
+667: Gate
+678: Droid Storage Facility
+826: Command Base
+950: Colony Ship
+1021: Bridge A Start
+1022: Bridge A Mid
+1023: Bridge A End
+1024: Bridge A End (Broken)
+1025: Bridge B End
+1026: Bridge B Start
+1027: Bridge B Mid
+1028: Bridge A Mid (Broken)
+1029: Bridge A Start (Broken)
+1030: Bridge B Start (Broken)
+1031: Bridge B End (Broken)
+1032: Bridge B Mid (Broken)
+1049: Sith Infiltrator
+1050: Landed Rebel Transport
+1052: Massassi Temple
+1053: Lander
+1054: Lambda Class Shuttle
+1055: Theed House
+1056: Theed House
+1057: Theed Gazebo
+1059: Theed Temple
+1060: Theed Hangar
+1061: Naboo Tower
+1062: Theed Power Station
+1063: Theed Palace
+1064: Theed Turret
+1184: Tatooine House A
+1185: Tatooine House B
+1186: Tatooine Bldg A
+1187: Tatooine Tower A
+1188: Tatooine Vaporator
+1189: Bridge A Mid Destructable
+1190: Theed Monument
+1194: Echo Base Power Generator
+1195: Echo Base Ion Cannon
+1207: Bursa Hut
+1213: Theed House
+1214: Theed House
+1216: Bespin Bldg 1
+1217: Bespin Bldg 4
+1218: Bespin Government Center
+1219: Bespin Bldg 5
+1220: Bespin Bldg 10
+1221: Bespin Bldg 6
+1222: Bespin Bldg 7
+1223: Bespin Bldg 8
+1224: Bespin Bldg 9
+1225: Bespin Bldg 2
+1226: Bespin Bldg 3
+1248: Bridge B Mid Destructable
+1284: AquaProduction Plant
+1291: Invisible Target
+1294: Main Reactor
+1295: Massassi Great Temple
+1298: Trandoshan Building
+1299: Endor Shield Generator
+1300: Food Storehouse
+1301: Bunker
+1302: Atmosphere Factory
+1303: Landing Platform
+1304: Jamming Device
+1306: Kessel Prison Building
+1307: Kessel Mining Building
+1308: Large Jedi Ruins
+1311: Ewok Hut
+1312: Gungan Temple
+1313: Ewok Military Structure
+1336: Main Terraform Processor
+1337: Imperial Palace
+1338: Communications Jammer
+1340: Atmosphere Proc Station
+1342: Small Jedi Ruins
+1374: Yoda's Hovel
+1428: Theed Arch
+1432: Theed Arch
+1433: Theed Arch
+1434: Theed Arch
+1454: Trandoshan Building
+1458: Gravity Control Generator
+1576: Sensor Buoy
+1589: Coruscant Building 10
+
+## Confederacy / Heroes (18)
+545: Decimator
+549: Outrider
+557: Slave I (Boba Fett)
+559: Slave I (Jango Fett)
+569: Virago
+658: Bib Fortuna
+694: Chief Jawa
+699: Data Droid
+707: (C) Jango Fett
+712: (C) Zam Wesell
+718: Boorka The Hutt
+720: Jabba The Hutt
+722: IG-88
+725: (C) Count Dooku
+784: (C) Sev'Rance Tann
+847: (C) Poggle The Lesser
+1229: Millenium Falcon
+1588: Tann's Transport
+
+# Gaia (native editor player-0 list; source = DAT NATURE table / world prototype 0; owner must be Gaia)
+# * = previously missing: exists only in the NATURE table, absent from all 8 playable tables
+
+## Gaia / Units (519)
+2: (G) Fambaa Shield Generator
+4: (N) Royal Crusader
+6: (R) Airspeeder
+8: (W) Berserker
+13: Utility Trawler
+44: (E) Sith Knight
+48: Wild Fambaa *
+52: (F) Sith Apprentice
+61: (G) Jedi Knight
+62: (N) Jedi Knight
+74: (R) Jedi Knight
+77: (W) Jedi Knight
+83: Worker
+89: (F) Sith Master
+96: Ibbot *
+97: (F) Sith Knight
+108: (F) Adv Bomber
+113: (F) Adv Fighter
+115: (E) Sith Master
+125: (G) Jedi Master
+126: Rancor *
+127: (F) Bomber
+134: (N) Jedi Master
+136: (R) Jedi Master
+140: (W) Jedi Master
+158: (F) Fighter
+160: (F) Enh Bomber
+163: (F) Fast Fighter
+167: (F) Medic
+169: (F) Undeployed Cannon
+170: (F) Bounty Hunter
+172: (F) Hvy Destroyer Droid
+174: (F) Destroyer Droid
+176: (F) Adv Frigate
+177: (F) Adv Cruiser
+180: (E) Sith Apprentice
+182: (F) Hvy Destroyer
+183: (G) Jedi Padawan
+184: (F) Hvy Anti-Air Destroyer
+186: (F) Destroyer
+187: (F) Lt Frigate
+188: (F) Anti-Air Destroyer
+189: (F) Frigate
+190: (F) Cruiser
+191: (F) Transport Ship
+192: (F) Hvy Artillery
+197: (F) Hvy Anti-Air Mobile
+200: (F) Hvy Pummel
+203: (F) Artillery
+204: (N) Jedi Padawan
+207: (F) Anti-Air Mobile
+231: (F) Pummel
+232: (R) Jedi Padawan
+238: (G) Trooper Recruit
+239: (W) Jedi Padawan
+244: (F) Strike Mech
+246: (F) Mech Destroyer
+249: (F) Assault Mech
+258: (F) Scout
+261: (F) Hvy Strike Mech
+263: (F) Hvy Mech Destroyer
+277: (F) Hvy Assault Mech
+280: (N) Trooper Recruit
+282: (R) Trooper Recruit
+286: (W) Trooper Recruit
+287: (F) Adv Mnted Trooper
+289: (F) Mounted Trooper
+292: (F) Grenade Trooper
+295: (F) Hvy Mnted Trooper
+297: (F) Hvy Trooper
+301: (F) Hvy A-Air Trooper
+303: (F) Repeater Trooper
+305: (F) Anti-Air Trooper
+307: (E) Trooper Recruit
+309: (F) Trooper Recruit
+315: (F) Trooper
+329: (E) Adv Mnted Trooper
+331: (G) Adv Mnted Trooper
+344: (N) Adv Mnted Trooper
+346: (R) Adv Mnted Trooper
+352: (W) Adv Mnted Trooper
+359: (E) Mounted Trooper
+361: (G) Mounted Trooper
+370: (N) Mounted Trooper
+376: (R) Mounted Trooper
+378: (W) Mounted Trooper
+381: (E) Grenade Trooper
+383: (G) Grenade Trooper
+385: (N) Grenade Trooper
+387: (R) Grenade Trooper
+389: (W) Grenade Trooper
+391: (E) Hvy Mnted Trooper
+393: (G) Hvy Mnted Trooper
+395: (N) Hvy Mnted Trooper
+397: (R) Hvy Mnted Trooper
+399: (W) Hvy Mnted Trooper
+401: (E) Hvy A-Air Trooper
+403: (G) Hvy A-Air Trooper
+405: (N) Hvy A-Air Trooper
+407: (R) Hvy A-Air Trooper
+409: (W) Hvy A-Air Trooper
+412: (E) Hvy Trooper
+418: (G) Hvy Trooper
+420: (N) Hvy Trooper
+422: (R) Hvy Trooper
+424: (W) Hvy Trooper
+426: (E) Repeater Trooper
+428: (G) Repeater Trooper
+430: (N) Repeater Trooper
+432: (R) Repeater Trooper
+434: Imperial Commander
+436: (W) Repeater Trooper
+438: (E) Anti-Air Trooper
+440: (G) Anti-Air Trooper
+442: (N) Anti-Air Trooper
+444: (R) Anti-Air Trooper
+446: (W) Anti-Air Trooper
+448: (E) Trooper
+452: (G) Trooper
+454: (N) Trooper
+460: (R) Trooper
+462: (W) Trooper
+468: (F) Cannon
+469: (E) Strike Mech
+471: (G) Strike Mech
+473: (N) Strike Mech
+475: (R) Strike Mech
+479: (W) Strike Mech
+481: (C) Acklay (Controlled)
+485: (E) Mech Destroyer
+489: (G) Mech Destroyer
+493: (N) Mech Destroyer
+495: (R) Mech Destroyer
+497: (W) Mech Destroyer
+500: (E) Assault Mech
+502: (G) Assault Mech
+508: (N) Assault Mech
+514: (R) Assault Mech
+517: (W) Assault Mech
+522: Jabba's Sail Barge
+542: Anakin's Podracer
+543: Desert Skiff
+544: Coruscant Speeder 2 *
+546: Interstellar Sail Ship
+547: Lambda Shuttle
+548: Landspeeder
+550: (E) Scout
+551: Sebulba's Podracer
+552: (G) Scout
+554: (N) Scout
+555: Skyhopper
+556: (R) Scout
+558: (W) Scout
+560: (E) Hvy Strike Mech
+566: (G) Hvy Strike Mech
+568: (N) Hvy Strike Mech
+570: (R) Hvy Strike Mech
+572: (W) Hvy Strike Mech
+574: (E) Hvy Mech Destroyer
+576: (G) Hvy Mech Destroyer
+578: (N) Hvy Mech Destroyer
+588: (R) Hvy Mech Destroyer
+594: Nerf
+596: (W) Hvy Mech Destroyer
+603: (E) Hvy Assault Mech
+619: (A) Air Cruiser
+620: (C) Air Cruiser
+622: (G) Hvy Assault Mech
+624: (N) Hvy Assault Mech
+625: (E) Air Cruiser
+626: (R) Hvy Assault Mech
+628: (F) Air Cruiser
+629: (W) Hvy Assault Mech
+630: (G) Air Cruiser
+631: (E) Hvy Artillery
+632: (N) Air Cruiser
+633: (G) Hvy Artillery
+634: (R) Air Cruiser
+635: (N) Hvy Artillery
+636: (W) Air Cruiser
+637: (R) Hvy Artillery
+638: (A) Adv Jedi Starfighter
+639: (W) Hvy Artillery
+640: (C) Elite Geonosian Warrior
+641: (A) Jedi Starfighter
+642: (C) Geonosian Warrior
+643: (A) Jedi Master
+645: (C) Sith Master
+647: (A) Jedi Padawan
+651: (E) Hvy Anti-Air Mobile
+652: (C) Sith Apprentice
+653: (G) Hvy Anti-Air Mobile
+657: (N) Hvy Anti-Air Mobile
+675: (R) Hvy Anti-Air Mobile
+679: (W) Hvy Anti-Air Mobile
+680: B'omarr Monk
+681: (E) Hvy Pummel
+683: (G) Hvy Pummel
+685: (N) Hvy Pummel
+687: (R) Hvy Pummel
+689: (W) Hvy Pummel
+691: (E) Artillery
+693: (G) Artillery
+695: (N) Artillery
+696: Lava Bubble (Destructive)
+698: (R) Artillery
+700: (W) Artillery
+702: (E) Anti-Air Mobile
+703: Gamorrean Guard
+704: (G) Anti-Air Mobile
+706: (N) Anti-Air Mobile
+708: (R) Anti-Air Mobile
+711: (W) Anti-Air Mobile
+713: (E) Pummel
+715: (G) Pummel
+717: (N) Pummel
+719: (R) Pummel
+721: (W) Pummel
+724: Jawa (Ranged)
+733: (E) Adv Bomber
+735: (G) Adv Bomber
+745: (N) Adv Bomber
+748: (R) Adv Bomber
+750: (W) Adv Bomber
+752: (E) Adv Fighter
+754: (G) Adv Fighter
+756: (N) Adv Fighter
+758: (R) Adv Fighter
+760: (W) Adv Fighter
+762: (E) Bomber
+764: (G) Bomber
+766: (N) Bomber
+769: (R) Bomber
+771: (W) Bomber
+773: (E) Fighter
+775: (G) Fighter
+777: (N) Fighter
+779: (R) Fighter
+781: (W) Fighter
+783: (E) Enh Bomber
+785: (G) Enh Bomber
+787: (N) Enh Bomber
+789: (R) Enh Bomber
+791: (W) Enh Bomber
+793: (E) Fast Fighter
+795: (G) Fast Fighter
+797: (N) Fast Fighter
+799: (R) Fast Fighter
+801: (W) Fast Fighter
+803: (E) Adv Cruiser
+805: (G) Adv Cruiser
+807: (N) Adv Cruiser
+809: (R) Adv Cruiser
+811: (W) Adv Cruiser
+812: Tusk Cat *
+815: (E) Cruiser
+816: Ibbot *
+818: (G) Cruiser
+820: (N) Cruiser
+822: Falumpaset *
+823: (R) Cruiser
+825: (W) Cruiser
+829: (G) Hvy Anti-Air Destroyer
+831: (R) Hvy Anti-Air Destroyer
+833: Bantha
+835: (W) Hvy Anti-Air Destroyer
+838: (E) Transport Ship
+839: (G) Transport Ship
+840: (N) Transport Ship
+841: (R) Transport Ship
+842: (W) Transport Ship
+850: (A) Senate Guard
+852: (E) Imperial Royal Guard
+857: Aqualish
+859: Barada
+860: (C) Nexu (Controlled)
+861: Klaatu
+863: Nikto
+865: Quarren
+867: Rodian
+868: (E) Lt Frigate
+870: (N) Lt Frigate
+871: Weequay Skiff Guard
+872: (R) Lt Frigate
+874: (W) Lt Frigate
+875: Tusken Child
+876: (G) Lt Frigate
+878: (E) Frigate
+879: Tusken Raider (Female)
+880: (N) Frigate
+882: (R) Frigate
+883: Tusken Bantha Trooper
+884: (W) Frigate
+886: (G) Frigate
+887: Tusken Raider Rifleman
+888: (E) Adv Frigate
+890: (N) Adv Frigate
+891: Twi'Lek Female
+892: (R) Adv Frigate
+894: (W) Adv Frigate
+895: Twi'lek Male
+896: (G) Adv Frigate
+898: (E) Destroyer
+899: Zian Finnis
+900: (N) Destroyer
+902: (W) Destroyer
+903: (A) Strike Mech
+904: (G) Destroyer
+906: (R) Destroyer
+907: (C) Strike Mech
+908: (E) Hvy Destroyer
+910: (N) Hvy Destroyer
+911: (A) Mech Destroyer
+912: (W) Hvy Destroyer
+914: (G) Hvy Destroyer
+915: (C) Mech Destroyer
+916: (R) Hvy Destroyer
+918: (E) Anti-Air Destroyer
+919: (A) Assault Mech
+920: (N) Anti-Air Destroyer
+921: (C) Reek (Controlled)
+922: (G) Anti-Air Destroyer
+923: (C) Assault Mech
+924: (R) Anti-Air Destroyer
+926: (W) Anti-Air Destroyer
+927: (A) Scout
+928: (E) Hvy Anti-Air Destroyer
+930: (N) Hvy Anti-Air Destroyer
+931: Cargo Hovercraft
+932: (C) Scout
+937: (E) TIE Advanced X1
+938: Sandcrawler
+939: (E) Medic
+941: (G) Medic
+943: (N) Medic
+945: (R) Medic
+947: (W) Medic
+949: (E) Trandoshan Jailer
+951: (E) Undeployed Cannon
+952: (G) Undeployed Cannon
+953: (N) Undeployed Cannon
+954: (R) Undeployed Cannon
+955: (W) Undeployed Cannon
+957: (A) Hvy Strike Mech
+959: (C) Hvy Strike Mech
+961: (E) Bounty Hunter
+963: (G) Bounty Hunter
+965: (N) Bounty Hunter
+967: (R) Bounty Hunter
+969: (W) Bounty Hunter
+971: (E) Dark Trooper Phase 2
+973: (A) Hvy Mech Destroyer
+975: (G) Hvy Fambaa Shield Gen
+977: (N) Elite Royal Crusader
+979: (R) Armored Airspeeder
+980: (C) Hvy Mech Destroyer
+981: (W) Adv Berserker
+983: (E) Cannon
+984: (G) Cannon
+985: (N) Cannon
+986: (R) Cannon
+987: (W) Cannon
+989: (A) Hvy Assault Mech
+991: (C) Hvy Assault Mech
+993: (E) Dark Trooper Phase 1
+996: (A) Medic
+998: Opee Sea Killer *
+1005: (C) Medic
+1007: (A) Power Droid
+1008: (C) Power Droid
+1009: (E) Power Droid
+1010: (F) Power Droid
+1011: (G) Power Droid
+1012: (N) Power Droid
+1013: (R) Power Droid
+1014: (W) Power Droid
+1015: (A) Adv Mounted Trooper
+1033: Colo Claw Fish *
+1034: (E) Probot
+1036: (E) Air Transport
+1037: (C) Adv Mounted Trooper
+1038: (F) Air Transport
+1040: (G) Air Transport
+1042: (N) Air Transport
+1043: (A) Mounted Trooper
+1044: (W) Air Transport
+1046: (R) Air Transport
+1047: (C) Mounted Trooper
+1098: (R) Hanoon Soldier
+1099: (R) Krantian Soldier
+1100: (R) Reytha Soldier
+1103: (E) Zalor Militiaman
+1129: Krayt Dragon *
+1197: Gundark *
+1198: Bursa
+1199: Bursa Leader
+1202: Undefeatable Object
+1203: Mynock *
+1236: (G) Gundark
+1237: (W) X-wing Fighter (Luke)
+1239: Explosive Droid
+1249: Dewback *
+1250: Jawa *
+1251: Tusken Raider *
+1252: Wampa *
+1253: (R) Ewok
+1256: (R) Logray
+1257: (E) Trandoshan Slaver
+1258: (R) Wicket
+1265: (R) General Dodonna (Wounded)
+1266: (G) Wild Gungan Flyer
+1267: (R) Bespin Security Guard
+1268: (E) Blizzard 2
+1269: (E) Blizzard 3
+1270: (E) Blizzard 4
+1271: (E) Blizzard 5
+1272: (E) Blizzard 6
+1273: (R) Ewok Glider
+1275: (R) Ewok Catapult
+1276: (E) Prototype AT-AT
+1281: Vor'Na'Tu *
+1282: Vor'Na'Tu Shard *
+1305: Twin-Pod Cloud Car *
+1318: (W) Wounded Attichitcuk
+1324: (E) Slaver Ship
+1328: Sacred Staff
+1363: Kaadu *
+1364: Ronto *
+1365: Eopie *
+1366: Tauntaun *
+1367: Cu-pa *
+1420: (N) Royal Starship
+1425: Droid Control Program
+1430: Fambaa
+1459: Acklay *
+1461: Nexu *
+1463: Reek *
+1465: Sarlacc Pit *
+1467: Vaapad *
+1469: Massiff *
+1471: Orray *
+1473: Shaak *
+1475: Womp Rat *
+1477: (A) Adv Frigate
+1478: (A) Grenade Trooper
+1479: (C) Adv Frigate
+1481: (A) Adv Cruiser
+1482: (C) Grenade Trooper
+1483: (C) Adv Cruiser
+1485: (A) Hvy Destroyer
+1486: (A) Hvy Mounted Trooper
+1487: (C) Hvy Destroyer
+1489: (A) Hvy Anti-Air Destroyer
+1490: (C) Hvy Mounted Trooper
+1491: (C) Hvy Anti-Air Destroyer
+1493: (A) Destroyer
+1494: (A) Hvy Anti-Air Trooper
+1495: (C) Destroyer
+1497: (A) Lt Frigate
+1498: (C) Hvy Anti-Air Trooper
+1499: (C) Lt Frigate
+1501: (A) Anti-Air Destroyer
+1502: (A) Hvy Trooper
+1503: (C) Anti-Air Destroyer
+1505: (A) Frigate
+1506: (C) Hvy Trooper
+1507: (C) Frigate
+1509: (A) Cruiser
+1510: (A) Repeater Trooper
+1511: (C) Cruiser
+1513: (A) Transport Ship
+1514: (C) Repeater Trooper
+1515: (C) Transport Ship
+1517: (A) Adv Bomber
+1518: (C) Adv Bomber
+1519: (A) Adv Fighter
+1520: (C) Adv Fighter
+1521: (A) Air Transport
+1522: (C) Air Transport
+1523: (A) Bomber
+1524: (C) Bomber
+1525: (A) Fighter
+1526: (C) Fighter
+1527: (A) Enh Bomber
+1528: (C) Enh Bomber
+1529: (A) Fast Fighter
+1530: (C) Fast Fighter
+1531: (A) Undeployed Cannon
+1532: (C) Undeployed Cannon
+1533: (A) Bounty Hunter
+1535: (C) Bounty Hunter
+1537: (A) Cannon
+1538: (C) Cannon
+1539: (A) Hvy Artillery
+1540: (A) Anti-Air Trooper
+1541: (C) Hvy Artillery
+1543: (A) Hvy Anti-Air Mobile
+1544: (C) Anti-Air Trooper
+1545: (C) Hvy Anti-Air Mobile
+1547: (A) Hvy Pummel
+1548: (A) Trooper Recruit
+1549: (C) Hvy Pummel
+1551: (A) Artillery
+1552: (C) Trooper Recruit
+1553: (C) Artillery
+1555: (A) Anti-Air Mobile
+1556: (A) Trooper
+1557: (C) Anti-Air Mobile
+1559: (A) Pummel
+1560: (C) Trooper
+1561: (C) Pummel
+1567: (C) Sith Knight
+1569: (A) Jedi Knight
+1571: Coruscant Speeder 1 *
+1581: Luke's Landspeeder
+1582: (R) A-wing
+1583: (R) B-wing
+1584: Tusken Raider (Melee)
+1593: (C) Rancor (Controlled)
+
+## Gaia / Buildings (171)
+7: Asteroid Supply Depot
+12: Power Core
+19: Transmitter
+24: (F) Battleship Core
+45: Shipyard
+49: Hvy Weapons Factory
+50: Farm
+64: Gate
+68: Food Proc Ctr
+70: Prefab Shelter
+72: Light Wall
+79: Light Turret
+82: Fortress
+84: Spaceport
+87: Troop Center
+88: Gate
+101: Mech Factory
+103: War Center
+104: Sith Temple
+109: Command Center
+117: Medium Wall
+155: Hvy Wall
+195: Shield Wall
+196: Adv Anti-Air Turret
+199: AquaHarvester
+209: Research Center
+234: Medium Turret
+235: Advanced Turret
+236: Anti-Air Turret
+275: B'omarr Temple
+276: Monument
+284: Boorka's Palace
+299: Freighter 1 (Landed)
+300: Freighter 2 (Landed)
+311: Tatooine Crashed Starship
+312: Commerce Guild Trpt (Landed)
+313: Coruscant Building 1
+314: Coruscant Building 2
+317: Airbase
+319: Animal Nursery
+323: Nova Crystal Proc Ctr
+327: Coruscant Building 3
+328: Coruscant Building 4
+333: Coruscant Building 5
+334: Coruscant Building 6
+335: Shield Generator
+338: Coruscant Building 7
+339: Coruscant Building 8
+340: Coruscant Building 9
+341: Mt. Corvast Citadel
+342: Decimator Facility
+467: Decimator Laboratory
+474: Decimator (Locked-Down)
+476: Decimator Production Yard
+480: Interstellar Sail Ship (Landed)
+482: Energy Collection Repository
+483: Drill Platform Collector
+494: Escape Pod
+496: (F) Mining Core
+499: (F) Mining Facility
+518: Jabba's Palace
+519: Jawa Camp
+521: Lars Homestead *
+523: Large Energy Collection Repository
+524: Tatooine Moisture Farm
+525: Tatooine Docking Bay
+526: Tatooine Market
+527: Tatooine Hovel 1
+528: Tatooine Hovel 2
+529: Tatooine Slave Quarters
+530: Tatooine Spaceport
+531: Power Relay
+532: Rocketship (Landed)
+533: Republic Troop Lander (Landed)
+534: Slave I (Landed)
+535: Tann's Transport (Landed)
+536: Tusken Tents 1
+537: Tusken Tents 2
+541: (W) Wookie Transmission Tower
+562: Carbon Proc Ctr
+584: Ore Proc Ctr
+598: Sentry Post
+659: Gate
+667: Gate
+678: Droid Storage Facility
+826: Command Base
+950: Colony Ship
+1001: (G) Underwater Prefab Shelter
+1021: Bridge A Start
+1022: Bridge A Mid
+1023: Bridge A End
+1024: Bridge A End (Broken)
+1025: Bridge B End
+1026: Bridge B Start
+1027: Bridge B Mid
+1028: Bridge A Mid (Broken)
+1029: Bridge A Start (Broken)
+1030: Bridge B Start (Broken)
+1031: Bridge B End (Broken)
+1032: Bridge B Mid (Broken)
+1049: Sith Infiltrator
+1050: Landed Rebel Transport
+1052: Massassi Temple
+1053: Lander
+1054: Lambda Class Shuttle
+1055: Theed House
+1056: Theed House
+1057: Theed Gazebo
+1059: Theed Temple
+1060: Theed Hangar
+1061: Naboo Tower
+1062: Theed Power Station
+1063: Theed Palace
+1064: Theed Turret
+1184: Tatooine House A
+1185: Tatooine House B
+1186: Tatooine Bldg A
+1187: Tatooine Tower A
+1188: Tatooine Vaporator
+1189: Bridge A Mid Destructable
+1190: Theed Monument
+1194: Echo Base Power Generator
+1195: Echo Base Ion Cannon
+1207: Bursa Hut
+1213: Theed House
+1214: Theed House
+1216: Bespin Bldg 1
+1217: Bespin Bldg 4
+1218: Bespin Government Center
+1219: Bespin Bldg 5
+1220: Bespin Bldg 10
+1221: Bespin Bldg 6
+1222: Bespin Bldg 7
+1223: Bespin Bldg 8
+1224: Bespin Bldg 9
+1225: Bespin Bldg 2
+1226: Bespin Bldg 3
+1248: Bridge B Mid Destructable
+1284: AquaProduction Plant
+1291: Invisible Target
+1292: (G) Otoh Gunga High Tower
+1293: (G) Rogoe's Keep
+1294: Main Reactor
+1295: Massassi Great Temple
+1298: Trandoshan Building
+1299: Endor Shield Generator
+1300: Food Storehouse
+1301: Bunker
+1302: Atmosphere Factory
+1303: Landing Platform
+1304: Jamming Device
+1306: Kessel Prison Building
+1307: Kessel Mining Building
+1308: Large Jedi Ruins
+1311: Ewok Hut
+1312: Gungan Temple
+1313: Ewok Military Structure
+1336: Main Terraform Processor
+1337: Imperial Palace
+1338: Communications Jammer
+1340: Atmosphere Proc Station
+1342: Small Jedi Ruins
+1374: Yoda's Hovel
+1428: Theed Arch
+1432: Theed Arch
+1433: Theed Arch
+1434: Theed Arch
+1454: Trandoshan Building
+1458: Gravity Control Generator
+1576: Sensor Buoy
+1589: Coruscant Building 10
+
+## Gaia / Heroes (121)
+17: (R) Millenium Falcon (Han)
+23: (W) Chewbacca Melee
+32: (E) TIE Advanced X1 (Vader)
+252: (N) Anakin Skywalker
+545: Decimator
+549: Outrider
+557: Slave I (Boba Fett)
+559: Slave I (Jango Fett)
+569: Virago
+605: (N) Queen Amidala
+606: (W) Attichitcuk
+607: (R) C-3P0
+608: (W) Chewbacca
+658: Bib Fortuna
+686: (E) General Tal Ashen
+688: (R) Rand Talor
+690: (A) C-3P0 [Episode II]
+694: Chief Jawa
+699: Data Droid
+701: (R) Kath Talor
+707: (C) Jango Fett
+712: (C) Zam Wesell
+718: Boorka The Hutt
+720: Jabba The Hutt
+722: IG-88
+725: (C) Count Dooku
+728: (A) Jor Drakas
+731: (A) Gen. Echuu Shen-Jon
+747: (A) Ki-Adi-Mundi
+753: (R) Master Skywalker
+761: (A) Mace Windu
+770: (A) Master Kenobi
+778: (A) Plo Koon
+784: (C) Sev'Rance Tann
+792: (A) Fighting Yoda
+800: (A) Anakin Skywalker [Episode II]
+806: (A) Depa Billaba
+814: (A) Naat Reath
+819: Naat Reath (Imprisoned) *
+824: (A) Stam Reath
+830: (E) AT-AT (Ashen)
+843: (N) Senator Padmé Amidala
+845: (F) Plure Barron
+847: (C) Poggle The Lesser
+849: (R) Dash Rendar
+854: (A) Supreme Chancellor Palpatine
+856: (R) Millenium Falcon (General Solo)
+999: (R) Princess Leia Organa
+1065: (F) OOM-9
+1066: (F) UTT-90
+1067: (F) MUQ-751
+1068: (F) DRN-592
+1069: (F) YIN-762
+1070: (F) LUH-989
+1071: (F) EEK-176
+1072: (F) OOM-14
+1073: (F) DNM-908
+1074: (F) Z23-Y75
+1076: (N) Obi-Wan Kenobi
+1077: (R) Echuu
+1078: (R) Luke Skywalker
+1079: (R) Obi-Wan Kenobi
+1080: (R) Yoda
+1081: (F) Darth Maul
+1082: (N) Qui-Gon Jinn
+1083: (E) Darth Vader
+1084: (F) Darth Sidious
+1085: (E) Emperor Palpatine
+1086: (G) Jar Jar Binks
+1087: (N) Sio Bibble
+1088: (R) Excellency Lathe Parthenian
+1089: (R) Krantian Governor
+1090: (R) Utric Sandov
+1091: (E) Governor Antes Belladar
+1092: (E) Minister Transe Decar
+1093: (W) Lumpawarrump
+1094: (W) Weebacca
+1096: (N) Captain Panaka
+1097: (R) General Jan Dodonna
+1101: (E) Colonel Veers
+1102: (W) Tallamitta
+1104: (R) Lando Calrissian
+1105: (R) Han Solo
+1106: (G) Boss Nass
+1107: (G) Boss Ganne
+1108: (G) Boss Gallo
+1109: (E) Moff Yittreas
+1110: (W) Shoran
+1112: (R) Snowspeeder (Wedge Antilles)
+1113: (E) Pekt
+1114: (G) Captain Marsune
+1115: (G) Captain Tarpals
+1116: (E) Mara Jade
+1196: (R) Han Solo on Tauntaun
+1200: (R) A-wing
+1201: (R) Upgraded A-wing
+1209: (E) Blizzard 1 (Veers)
+1229: Millenium Falcon
+1238: (W) Millenium Falcon (Lando)
+1254: (F) Neimoidian Technician
+1255: (R) Chief Chirpa
+1261: (G) Vilmarh Grahrk
+1262: (N) Aurra Sing
+1263: (R) Boussh
+1264: (W) Snoova
+1316: (F) Mahwi Lihnn
+1317: (E) Boba Fett
+1319: (E) Moff Darcc
+1320: (G) Boss Tenko
+1321: (G) Boss Hoxie
+1322: (G) Boss Copek
+1323: (G) Boss Hantic
+1357: (R) Lobot
+1361: (R) R2-D2
+1368: (F) Viceroy Nute Gunray
+1391: (E) Bossk
+1401: (E) Greedo
+1417: (W) AT-ST (Chewie)
+1418: (F) AAT (OOM-9)
+1421: (R) Snowspeeder (Luke Skywalker)
+1588: Tann's Transport
