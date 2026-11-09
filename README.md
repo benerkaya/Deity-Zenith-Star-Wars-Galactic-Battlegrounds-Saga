@@ -1,4 +1,4 @@
-# Deity Zenith Galactic Battlegrounds
+# Deity Zenith SWGB Saga
 
 A summoning CE table for **STAR WARS Galactic Battlegrounds Saga**, by Bener Kaya.
 
